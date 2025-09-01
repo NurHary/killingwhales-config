@@ -1,0 +1,9 @@
+2025/08/31-20:42:03.723 3e07 Reusing MANIFEST /home/killingwhales/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2025/08/31-20:42:03.758 3e07 Recovering log #15
+2025/08/31-20:42:03.759 3e07 Reusing old log /home/killingwhales/.config/discord/Local Storage/leveldb/000015.log 
+2025/08/31-20:53:55.279 3dea Level-0 table #20: started
+2025/08/31-20:53:55.284 3dea Level-0 table #20: 46243 bytes OK
+2025/08/31-20:53:55.286 3dea Delete type=0 #15
+2025/08/31-21:08:53.799 3de9 Level-0 table #22: started
+2025/08/31-21:08:53.834 3de9 Level-0 table #22: 1642827 bytes OK
+2025/08/31-21:08:53.835 3de9 Delete type=0 #19

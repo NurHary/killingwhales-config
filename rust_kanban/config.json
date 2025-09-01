@@ -1,0 +1,168 @@
+{
+  "always_load_last_save": true,
+  "auto_login": true,
+  "date_time_format": "DayMonthYearTime",
+  "default_theme": "Default Theme",
+  "default_view": "TitleBodyHelpLog",
+  "disable_animations": false,
+  "disable_scroll_bar": false,
+  "enable_mouse_support": true,
+  "keybindings": {
+    "accept": [
+      "Enter"
+    ],
+    "change_card_status_to_active": [
+      {
+        "Char": "2"
+      }
+    ],
+    "change_card_status_to_completed": [
+      {
+        "Char": "1"
+      }
+    ],
+    "change_card_status_to_stale": [
+      {
+        "Char": "3"
+      }
+    ],
+    "change_card_priority_to_high": [
+      {
+        "Char": "4"
+      }
+    ],
+    "change_card_priority_to_medium": [
+      {
+        "Char": "5"
+      }
+    ],
+    "change_card_priority_to_low": [
+      {
+        "Char": "6"
+      }
+    ],
+    "clear_all_toasts": [
+      {
+        "Char": "t"
+      }
+    ],
+    "delete_board": [
+      {
+        "Char": "D"
+      }
+    ],
+    "delete_card": [
+      {
+        "Char": "d"
+      },
+      "Delete"
+    ],
+    "down": [
+      "Down"
+    ],
+    "go_to_main_menu": [
+      {
+        "Char": "m"
+      }
+    ],
+    "go_to_previous_view_or_cancel": [
+      "Esc"
+    ],
+    "hide_ui_element": [
+      {
+        "Char": "h"
+      }
+    ],
+    "left": [
+      "Left"
+    ],
+    "move_card_down": [
+      "ShiftDown"
+    ],
+    "move_card_left": [
+      "ShiftLeft"
+    ],
+    "move_card_right": [
+      "ShiftRight"
+    ],
+    "move_card_up": [
+      "ShiftUp"
+    ],
+    "new_board": [
+      {
+        "Char": "b"
+      }
+    ],
+    "new_card": [
+      {
+        "Char": "n"
+      }
+    ],
+    "next_focus": [
+      "Tab"
+    ],
+    "open_config_menu": [
+      {
+        "Char": "c"
+      }
+    ],
+    "prv_focus": [
+      "BackTab"
+    ],
+    "quit": [
+      {
+        "Ctrl": "c"
+      },
+      {
+        "Char": "q"
+      }
+    ],
+    "redo": [
+      {
+        "Ctrl": "y"
+      }
+    ],
+    "reset_ui": [
+      {
+        "Char": "r"
+      }
+    ],
+    "right": [
+      "Right"
+    ],
+    "save_state": [
+      {
+        "Ctrl": "s"
+      }
+    ],
+    "stop_user_input": [
+      "Ins"
+    ],
+    "take_user_input": [
+      {
+        "Char": "i"
+      }
+    ],
+    "toggle_command_palette": [
+      {
+        "Ctrl": "p"
+      }
+    ],
+    "undo": [
+      {
+        "Ctrl": "z"
+      }
+    ],
+    "up": [
+      "Up"
+    ]
+  },
+  "no_of_boards_to_show": 3,
+  "no_of_cards_to_show": 2,
+  "date_picker_calender_format": "SundayFirst",
+  "save_directory": "/tmp/kanban_saves",
+  "save_on_exit": true,
+  "show_line_numbers": true,
+  "tickrate": 50,
+  "warning_delta": 3
+}

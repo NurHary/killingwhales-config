@@ -1,0 +1,19 @@
+2025/09/01-08:42:16.833 ddb Reusing MANIFEST /home/killingwhales/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2025/09/01-08:42:16.869 ddb Recovering log #21
+2025/09/01-08:42:16.869 ddb Reusing old log /home/killingwhales/.config/discord/Local Storage/leveldb/000021.log 
+2025/09/01-08:46:39.512 dbe Level-0 table #25: started
+2025/09/01-08:46:39.536 dbe Level-0 table #25: 1644522 bytes OK
+2025/09/01-08:46:39.538 dbe Delete type=0 #21
+2025/09/01-08:50:59.271 dbe Level-0 table #27: started
+2025/09/01-08:50:59.319 dbe Level-0 table #27: 1601382 bytes OK
+2025/09/01-08:50:59.321 dbe Delete type=0 #24
+2025/09/01-08:50:59.321 dbe Compacting 4@0 + 1@1 files
+2025/09/01-08:50:59.374 dbe Generated table #28@0: 101 keys, 3230849 bytes
+2025/09/01-08:50:59.376 dbe Generated table #29@0: 21 keys, 19671 bytes
+2025/09/01-08:50:59.376 dbe Compacted 4@0 + 1@1 files => 3250520 bytes
+2025/09/01-08:50:59.377 dbe compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/09/01-08:50:59.377 dbe Delete type=2 #17
+2025/09/01-08:50:59.377 dbe Delete type=2 #22
+2025/09/01-08:50:59.377 dbe Delete type=2 #20
+2025/09/01-08:50:59.377 dbe Delete type=2 #25
+2025/09/01-08:50:59.377 dbe Delete type=2 #27
