@@ -1,6 +1,0 @@
-2025/09/09-08:33:56.205 176e Reusing MANIFEST /home/killingwhales/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2025/09/09-08:33:56.224 176e Recovering log #49
-2025/09/09-08:33:56.224 176e Reusing old log /home/killingwhales/.config/discord/Local Storage/leveldb/000049.log 
-2025/09/09-08:38:48.023 176f Level-0 table #54: started
-2025/09/09-08:38:48.047 176f Level-0 table #54: 1629163 bytes OK
-2025/09/09-08:38:48.049 176f Delete type=0 #49
