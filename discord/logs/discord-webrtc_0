@@ -1,207 +1,265 @@
-[2025-09-01 08:42:22.519] [3771] (engine.cpp:432): Created native engine, time: Mon Sep  1 08:42:22 2025 WIB, logPath: /home/killingwhales/.config/discord/logs/, logLevel: 2
-[2025-09-01 08:42:22.520] [3771] (input_volume_stats_reporter.cc:98): Will not log any `WebRTC.Audio.Apm.AppliedInputVolume.*` histogram stats.
-[2025-09-01 08:42:22.520] [3771] (input_volume_stats_reporter.cc:98): Will not log any `WebRTC.Audio.Apm.RecommendedInputVolume.*` histogram stats.
-[2025-09-01 08:42:22.520] [3771] (audio_processing_impl.cc:461): Injected APM submodules:
+[2025-09-09 08:34:29.395] [6402] (engine.cpp:432): Created native engine, time: Tue Sep  9 08:34:29 2025 WIB, logPath: /home/killingwhales/.config/discord/logs/, logLevel: 2
+[2025-09-09 08:34:29.396] [6402] (input_volume_stats_reporter.cc:98): Will not log any `WebRTC.Audio.Apm.AppliedInputVolume.*` histogram stats.
+[2025-09-09 08:34:29.396] [6402] (input_volume_stats_reporter.cc:98): Will not log any `WebRTC.Audio.Apm.RecommendedInputVolume.*` histogram stats.
+[2025-09-09 08:34:29.396] [6402] (audio_processing_impl.cc:461): Injected APM submodules:
 Echo control factory: 1
 Echo detector: 0
 Capture analyzer: 0
 Capture post processor: 1
 Render pre processor: 0
-[2025-09-01 08:42:22.520] [3771] (audio_processing_impl.cc:474): AudioProcessing: AudioProcessing::Config{ pipeline: { maximum_internal_processing_rate: 48000, multi_channel_render: 0, multi_channel_capture: 0 }, pre_amplifier: { enabled: 0, fixed_gain_factor: 1 },capture_level_adjustment: { enabled: 0, pre_gain_factor: 1, post_gain_factor: 1, analog_mic_gain_emulation: { enabled: 0, initial_level: 255 }}, high_pass_filter: { enabled: 0 }, echo_canceller: { enabled: 0, mobile_mode: 0, enforce_high_pass_filtering: 1 }, noise_suppression: { enabled: 0, level: Moderate }, transient_suppression: { enabled: 0 }, gain_controller1: { enabled: 0, mode: AdaptiveAnalog, target_level_dbfs: 3, compression_gain_db: 9, enable_limiter: 1, analog_gain_controller { enabled: 1, startup_min_volume: 0, clipped_level_min: 70, enable_digital_adaptive: 1, clipped_level_step: 15, clipped_ratio_threshold: 0.1, clipped_wait_frames: 300, clipping_predictor:  { enabled: 0, mode: 0, window_length: 5, reference_window_length: 5, reference_window_delay: 5, clipping_threshold: -1, crest_factor_margin: 3, use_predicted_step: 1 }}}, gain_controller2: { enabled: 0, fixed_digital: { gain_db: 0 }, adaptive_digital: { enabled: 0, headroom_db: 5, max_gain_db: 50, initial_gain_db: 15, max_gain_change_db_per_second: 6, max_output_noise_level_dbfs: -50 }, input_volume_control : { enabled 0}}
-[2025-09-01 08:42:22.520] [3771] (transparent_mode.cc:240): AEC3 Transparent Mode: Legacy
-[2025-09-01 08:42:22.520] [3771] (echo_canceller3.cc:792): AEC3 created with sample rate: 16000 Hz, num render channels: 1, num capture channels: 1
-[2025-09-01 08:42:22.520] [3771] (audio_processing_impl.cc:673): AudioProcessing::ApplyConfig: AudioProcessing::Config{ pipeline: { maximum_internal_processing_rate: 48000, multi_channel_render: 0, multi_channel_capture: 0 }, pre_amplifier: { enabled: 0, fixed_gain_factor: 1 },capture_level_adjustment: { enabled: 0, pre_gain_factor: 1, post_gain_factor: 1, analog_mic_gain_emulation: { enabled: 0, initial_level: 255 }}, high_pass_filter: { enabled: 1 }, echo_canceller: { enabled: 0, mobile_mode: 0, enforce_high_pass_filtering: 1 }, noise_suppression: { enabled: 0, level: Moderate }, transient_suppression: { enabled: 0 }, gain_controller1: { enabled: 0, mode: AdaptiveAnalog, target_level_dbfs: 3, compression_gain_db: 9, enable_limiter: 1, analog_gain_controller { enabled: 1, startup_min_volume: 0, clipped_level_min: 70, enable_digital_adaptive: 1, clipped_level_step: 15, clipped_ratio_threshold: 0.1, clipped_wait_frames: 300, clipping_predictor:  { enabled: 0, mode: 0, window_length: 5, reference_window_length: 5, reference_window_delay: 5, clipping_threshold: -1, crest_factor_margin: 3, use_predicted_step: 1 }}}, gain_controller2: { enabled: 0, fixed_digital: { gain_db: 0 }, adaptive_digital: { enabled: 0, headroom_db: 5, max_gain_db: 50, initial_gain_db: 15, max_gain_change_db_per_second: 6, max_output_noise_level_dbfs: -50 }, input_volume_control : { enabled 0}}
-[2025-09-01 08:42:22.520] [3771] (adm_factory_default.cpp:109): Creating ADM on main thread
-[2025-09-01 08:42:22.520] [3771] (audio_device_buffer.cc:66): AudioDeviceBuffer::ctor
-[2025-09-01 08:42:22.520] [3771] (audio_device_impl.cc:153): current platform is Linux
-[2025-09-01 08:42:22.520] [3771] (audio_device_impl.cc:175): CreatePlatformSpecificObjects
-[2025-09-01 08:42:22.520] [3771] (audio_device_impl.cc:945): PlatformAudioLayer
-[2025-09-01 08:42:22.520] [3771] (audio_device_impl.cc:253): PulseAudio support is enabled.
-[2025-09-01 08:42:22.520] [3771] (audio_device_impl.cc:258): Linux PulseAudio APIs will be utilized
-[2025-09-01 08:42:22.520] [3771] (audio_device_impl.cc:300): AttachAudioBuffer
-[2025-09-01 08:42:22.520] [3771] (audio_device_buffer.cc:197): SetRecordingSampleRate(0)
-[2025-09-01 08:42:22.520] [3771] (audio_device_buffer.cc:203): SetPlayoutSampleRate(0)
-[2025-09-01 08:42:22.520] [3771] (audio_device_buffer.cc:217): SetRecordingChannels(0)
-[2025-09-01 08:42:22.520] [3771] (audio_device_buffer.cc:223): SetPlayoutChannels(0)
-[2025-09-01 08:42:22.520] [3771] (audio_device_impl.cc:310): ActiveAudioLayer
-[2025-09-01 08:42:22.520] [3771] (adm_factory_default.cpp:109): Creating ADM on main thread
-[2025-09-01 08:42:22.520] [3771] (audio_device_buffer.cc:66): AudioDeviceBuffer::ctor
-[2025-09-01 08:42:22.520] [3771] (audio_device_impl.cc:153): current platform is Linux
-[2025-09-01 08:42:22.520] [3771] (audio_device_impl.cc:175): CreatePlatformSpecificObjects
-[2025-09-01 08:42:22.520] [3771] (audio_device_impl.cc:945): PlatformAudioLayer
-[2025-09-01 08:42:22.520] [3771] (audio_device_impl.cc:253): PulseAudio support is enabled.
-[2025-09-01 08:42:22.520] [3771] (audio_device_impl.cc:258): Linux PulseAudio APIs will be utilized
-[2025-09-01 08:42:22.520] [3771] (audio_device_impl.cc:300): AttachAudioBuffer
-[2025-09-01 08:42:22.520] [3771] (audio_device_buffer.cc:197): SetRecordingSampleRate(0)
-[2025-09-01 08:42:22.520] [3771] (audio_device_buffer.cc:203): SetPlayoutSampleRate(0)
-[2025-09-01 08:42:22.520] [3771] (audio_device_buffer.cc:217): SetRecordingChannels(0)
-[2025-09-01 08:42:22.520] [3771] (audio_device_buffer.cc:223): SetPlayoutChannels(0)
-[2025-09-01 08:42:22.520] [3771] (input_volume_stats_reporter.cc:98): Will not log any `WebRTC.Audio.Apm.AppliedInputVolume.*` histogram stats.
-[2025-09-01 08:42:22.520] [3771] (input_volume_stats_reporter.cc:98): Will not log any `WebRTC.Audio.Apm.RecommendedInputVolume.*` histogram stats.
-[2025-09-01 08:42:22.520] [3771] (audio_processing_impl.cc:461): Injected APM submodules:
+[2025-09-09 08:34:29.398] [6402] (audio_processing_impl.cc:474): AudioProcessing: AudioProcessing::Config{ pipeline: { maximum_internal_processing_rate: 48000, multi_channel_render: 0, multi_channel_capture: 0 }, pre_amplifier: { enabled: 0, fixed_gain_factor: 1 },capture_level_adjustment: { enabled: 0, pre_gain_factor: 1, post_gain_factor: 1, analog_mic_gain_emulation: { enabled: 0, initial_level: 255 }}, high_pass_filter: { enabled: 0 }, echo_canceller: { enabled: 0, mobile_mode: 0, enforce_high_pass_filtering: 1 }, noise_suppression: { enabled: 0, level: Moderate }, transient_suppression: { enabled: 0 }, gain_controller1: { enabled: 0, mode: AdaptiveAnalog, target_level_dbfs: 3, compression_gain_db: 9, enable_limiter: 1, analog_gain_controller { enabled: 1, startup_min_volume: 0, clipped_level_min: 70, enable_digital_adaptive: 1, clipped_level_step: 15, clipped_ratio_threshold: 0.1, clipped_wait_frames: 300, clipping_predictor:  { enabled: 0, mode: 0, window_length: 5, reference_window_length: 5, reference_window_delay: 5, clipping_threshold: -1, crest_factor_margin: 3, use_predicted_step: 1 }}}, gain_controller2: { enabled: 0, fixed_digital: { gain_db: 0 }, adaptive_digital: { enabled: 0, headroom_db: 5, max_gain_db: 50, initial_gain_db: 15, max_gain_change_db_per_second: 6, max_output_noise_level_dbfs: -50 }, input_volume_control : { enabled 0}}
+[2025-09-09 08:34:29.401] [6402] (transparent_mode.cc:240): AEC3 Transparent Mode: Legacy
+[2025-09-09 08:34:29.401] [6402] (echo_canceller3.cc:792): AEC3 created with sample rate: 16000 Hz, num render channels: 1, num capture channels: 1
+[2025-09-09 08:34:29.401] [6402] (audio_processing_impl.cc:673): AudioProcessing::ApplyConfig: AudioProcessing::Config{ pipeline: { maximum_internal_processing_rate: 48000, multi_channel_render: 0, multi_channel_capture: 0 }, pre_amplifier: { enabled: 0, fixed_gain_factor: 1 },capture_level_adjustment: { enabled: 0, pre_gain_factor: 1, post_gain_factor: 1, analog_mic_gain_emulation: { enabled: 0, initial_level: 255 }}, high_pass_filter: { enabled: 1 }, echo_canceller: { enabled: 0, mobile_mode: 0, enforce_high_pass_filtering: 1 }, noise_suppression: { enabled: 0, level: Moderate }, transient_suppression: { enabled: 0 }, gain_controller1: { enabled: 0, mode: AdaptiveAnalog, target_level_dbfs: 3, compression_gain_db: 9, enable_limiter: 1, analog_gain_controller { enabled: 1, startup_min_volume: 0, clipped_level_min: 70, enable_digital_adaptive: 1, clipped_level_step: 15, clipped_ratio_threshold: 0.1, clipped_wait_frames: 300, clipping_predictor:  { enabled: 0, mode: 0, window_length: 5, reference_window_length: 5, reference_window_delay: 5, clipping_threshold: -1, crest_factor_margin: 3, use_predicted_step: 1 }}}, gain_controller2: { enabled: 0, fixed_digital: { gain_db: 0 }, adaptive_digital: { enabled: 0, headroom_db: 5, max_gain_db: 50, initial_gain_db: 15, max_gain_change_db_per_second: 6, max_output_noise_level_dbfs: -50 }, input_volume_control : { enabled 0}}
+[2025-09-09 08:34:29.402] [6402] (adm_factory_default.cpp:109): Creating ADM on main thread
+[2025-09-09 08:34:29.402] [6402] (audio_device_buffer.cc:66): AudioDeviceBuffer::ctor
+[2025-09-09 08:34:29.402] [6402] (audio_device_impl.cc:153): current platform is Linux
+[2025-09-09 08:34:29.402] [6402] (audio_device_impl.cc:175): CreatePlatformSpecificObjects
+[2025-09-09 08:34:29.402] [6402] (audio_device_impl.cc:945): PlatformAudioLayer
+[2025-09-09 08:34:29.402] [6402] (audio_device_impl.cc:253): PulseAudio support is enabled.
+[2025-09-09 08:34:29.402] [6402] (audio_device_impl.cc:258): Linux PulseAudio APIs will be utilized
+[2025-09-09 08:34:29.402] [6402] (audio_device_impl.cc:300): AttachAudioBuffer
+[2025-09-09 08:34:29.402] [6402] (audio_device_buffer.cc:197): SetRecordingSampleRate(0)
+[2025-09-09 08:34:29.402] [6402] (audio_device_buffer.cc:203): SetPlayoutSampleRate(0)
+[2025-09-09 08:34:29.402] [6402] (audio_device_buffer.cc:217): SetRecordingChannels(0)
+[2025-09-09 08:34:29.402] [6402] (audio_device_buffer.cc:223): SetPlayoutChannels(0)
+[2025-09-09 08:34:29.402] [6402] (audio_device_impl.cc:310): ActiveAudioLayer
+[2025-09-09 08:34:29.402] [6402] (adm_factory_default.cpp:109): Creating ADM on main thread
+[2025-09-09 08:34:29.402] [6402] (audio_device_buffer.cc:66): AudioDeviceBuffer::ctor
+[2025-09-09 08:34:29.402] [6402] (audio_device_impl.cc:153): current platform is Linux
+[2025-09-09 08:34:29.402] [6402] (audio_device_impl.cc:175): CreatePlatformSpecificObjects
+[2025-09-09 08:34:29.402] [6402] (audio_device_impl.cc:945): PlatformAudioLayer
+[2025-09-09 08:34:29.402] [6402] (audio_device_impl.cc:253): PulseAudio support is enabled.
+[2025-09-09 08:34:29.402] [6402] (audio_device_impl.cc:258): Linux PulseAudio APIs will be utilized
+[2025-09-09 08:34:29.402] [6402] (audio_device_impl.cc:300): AttachAudioBuffer
+[2025-09-09 08:34:29.402] [6402] (audio_device_buffer.cc:197): SetRecordingSampleRate(0)
+[2025-09-09 08:34:29.402] [6402] (audio_device_buffer.cc:203): SetPlayoutSampleRate(0)
+[2025-09-09 08:34:29.402] [6402] (audio_device_buffer.cc:217): SetRecordingChannels(0)
+[2025-09-09 08:34:29.402] [6402] (audio_device_buffer.cc:223): SetPlayoutChannels(0)
+[2025-09-09 08:34:29.402] [6402] (input_volume_stats_reporter.cc:98): Will not log any `WebRTC.Audio.Apm.AppliedInputVolume.*` histogram stats.
+[2025-09-09 08:34:29.402] [6402] (input_volume_stats_reporter.cc:98): Will not log any `WebRTC.Audio.Apm.RecommendedInputVolume.*` histogram stats.
+[2025-09-09 08:34:29.402] [6402] (audio_processing_impl.cc:461): Injected APM submodules:
 Echo control factory: 0
 Echo detector: 0
 Capture analyzer: 0
 Capture post processor: 0
 Render pre processor: 0
-[2025-09-01 08:42:22.520] [3771] (audio_processing_impl.cc:474): AudioProcessing: AudioProcessing::Config{ pipeline: { maximum_internal_processing_rate: 48000, multi_channel_render: 0, multi_channel_capture: 0 }, pre_amplifier: { enabled: 0, fixed_gain_factor: 1 },capture_level_adjustment: { enabled: 0, pre_gain_factor: 1, post_gain_factor: 1, analog_mic_gain_emulation: { enabled: 0, initial_level: 255 }}, high_pass_filter: { enabled: 0 }, echo_canceller: { enabled: 0, mobile_mode: 0, enforce_high_pass_filtering: 1 }, noise_suppression: { enabled: 0, level: Moderate }, transient_suppression: { enabled: 0 }, gain_controller1: { enabled: 0, mode: AdaptiveAnalog, target_level_dbfs: 3, compression_gain_db: 9, enable_limiter: 1, analog_gain_controller { enabled: 1, startup_min_volume: 0, clipped_level_min: 70, enable_digital_adaptive: 1, clipped_level_step: 15, clipped_ratio_threshold: 0.1, clipped_wait_frames: 300, clipping_predictor:  { enabled: 0, mode: 0, window_length: 5, reference_window_length: 5, reference_window_delay: 5, clipping_threshold: -1, crest_factor_margin: 3, use_predicted_step: 1 }}}, gain_controller2: { enabled: 0, fixed_digital: { gain_db: 0 }, adaptive_digital: { enabled: 0, headroom_db: 5, max_gain_db: 50, initial_gain_db: 15, max_gain_change_db_per_second: 6, max_output_noise_level_dbfs: -50 }, input_volume_control : { enabled 0}}
-[2025-09-01 08:42:22.520] [3771] (audio_engine.cpp:604): Creating audio engine: standard
-[2025-09-01 08:42:22.520] [3771] (audio_device_impl.cc:320): Init
-[2025-09-01 08:42:22.523] [3771] (audio_device_impl.cc:320): Init
-[2025-09-01 08:42:22.526] [3771] (audio_coding.cpp:158): Using software Opus decoder
-[2025-09-01 08:42:22.526] [3771] (audio_coding.cpp:175): Using software Opus encoder
-[2025-09-01 08:42:22.526] [3771] (audio_device_impl.cc:851): RegisterAudioCallback
-[2025-09-01 08:42:22.526] [3771] (audio_mixer_manager_pulse_linux.cc:669): input device index has not been set
-[2025-09-01 08:42:22.526] [3771] (audio_device_impl.cc:503): SetMicrophoneVolume(255)
-[2025-09-01 08:42:22.526] [3771] (audio_mixer_manager_pulse_linux.cc:575): input device index has not been set
-[2025-09-01 08:42:22.526] [3771] (audio_device_impl.cc:851): RegisterAudioCallback
-[2025-09-01 08:42:22.526] [3771] (audio_engine.cpp:213): Setting audio input device: 'default'
-[2025-09-01 08:42:22.526] [3771] (audio_device_impl.cc:534): SetStereoRecording(1)
-[2025-09-01 08:42:22.526] [3771] (audio_device_buffer.cc:217): SetRecordingChannels(2)
-[2025-09-01 08:42:22.526] [3771] (audio_device_impl.cc:732): SetRecordingDevice(0)
-[2025-09-01 08:42:22.527] [3771] (audio_device_impl.cc:522): StereoRecordingIsAvailable
-[2025-09-01 08:42:22.527] [3771] (audio_device_impl.cc:529): output: 1
-[2025-09-01 08:42:22.527] [3771] (audio_device_impl.cc:534): SetStereoRecording(1)
-[2025-09-01 08:42:22.527] [3771] (audio_device_buffer.cc:217): SetRecordingChannels(2)
-[2025-09-01 08:42:22.527] [3771] (audio_mixer_manager_pulse_linux.cc:669): input device index has not been set
-[2025-09-01 08:42:22.527] [3771] (audio_device_impl.cc:503): SetMicrophoneVolume(255)
-[2025-09-01 08:42:22.527] [3771] (audio_mixer_manager_pulse_linux.cc:575): input device index has not been set
-[2025-09-01 08:42:22.527] [3771] (audio_engine.cpp:230): Setting audio output device: 'default'
-[2025-09-01 08:42:22.527] [3771] (audio_device_impl.cc:664): SetPlayoutDevice(0)
-[2025-09-01 08:42:22.527] [3771] (audio_device_impl.cc:568): StereoPlayoutIsAvailable
-[2025-09-01 08:42:22.527] [3771] (audio_device_impl.cc:575): output: 1
-[2025-09-01 08:42:22.527] [3771] (audio_device_impl.cc:580): SetStereoPlayout(1)
-[2025-09-01 08:42:22.527] [3771] (audio_device_buffer.cc:223): SetPlayoutChannels(2)
-[2025-09-01 08:42:22.527] [3771] (audio_device_impl.cc:867): BuiltInAECIsAvailable
-[2025-09-01 08:42:22.527] [3771] (audio_device_generic.cc:32): BuiltInAECIsAvailable: Not supported on this platform
-[2025-09-01 08:42:22.527] [3771] (audio_device_impl.cc:870): output: 0
-[2025-09-01 08:42:22.528] [3771] (audio_processing_impl.cc:673): AudioProcessing::ApplyConfig: AudioProcessing::Config{ pipeline: { maximum_internal_processing_rate: 48000, multi_channel_render: 0, multi_channel_capture: 0 }, pre_amplifier: { enabled: 0, fixed_gain_factor: 1 },capture_level_adjustment: { enabled: 0, pre_gain_factor: 1, post_gain_factor: 1, analog_mic_gain_emulation: { enabled: 0, initial_level: 255 }}, high_pass_filter: { enabled: 1 }, echo_canceller: { enabled: 1, mobile_mode: 0, enforce_high_pass_filtering: 1 }, noise_suppression: { enabled: 0, level: Moderate }, transient_suppression: { enabled: 0 }, gain_controller1: { enabled: 0, mode: AdaptiveAnalog, target_level_dbfs: 3, compression_gain_db: 9, enable_limiter: 1, analog_gain_controller { enabled: 1, startup_min_volume: 0, clipped_level_min: 70, enable_digital_adaptive: 1, clipped_level_step: 15, clipped_ratio_threshold: 0.1, clipped_wait_frames: 300, clipping_predictor:  { enabled: 0, mode: 0, window_length: 5, reference_window_length: 5, reference_window_delay: 5, clipping_threshold: -1, crest_factor_margin: 3, use_predicted_step: 1 }}}, gain_controller2: { enabled: 0, fixed_digital: { gain_db: 0 }, adaptive_digital: { enabled: 0, headroom_db: 5, max_gain_db: 50, initial_gain_db: 15, max_gain_change_db_per_second: 6, max_output_noise_level_dbfs: -50 }, input_volume_control : { enabled 0}}
-[2025-09-01 08:42:22.528] [3771] (transparent_mode.cc:240): AEC3 Transparent Mode: Legacy
-[2025-09-01 08:42:22.528] [3771] (echo_canceller3.cc:792): AEC3 created with sample rate: 16000 Hz, num render channels: 1, num capture channels: 1
-[2025-09-01 08:42:22.528] [3771] (audio_processing_impl.cc:673): AudioProcessing::ApplyConfig: AudioProcessing::Config{ pipeline: { maximum_internal_processing_rate: 48000, multi_channel_render: 0, multi_channel_capture: 0 }, pre_amplifier: { enabled: 0, fixed_gain_factor: 1 },capture_level_adjustment: { enabled: 0, pre_gain_factor: 1, post_gain_factor: 1, analog_mic_gain_emulation: { enabled: 0, initial_level: 255 }}, high_pass_filter: { enabled: 1 }, echo_canceller: { enabled: 1, mobile_mode: 0, enforce_high_pass_filtering: 1 }, noise_suppression: { enabled: 0, level: Moderate }, transient_suppression: { enabled: 0 }, gain_controller1: { enabled: 1, mode: AdaptiveAnalog, target_level_dbfs: 3, compression_gain_db: 9, enable_limiter: 1, analog_gain_controller { enabled: 1, startup_min_volume: 0, clipped_level_min: 70, enable_digital_adaptive: 1, clipped_level_step: 15, clipped_ratio_threshold: 0.1, clipped_wait_frames: 300, clipping_predictor:  { enabled: 0, mode: 0, window_length: 5, reference_window_length: 5, reference_window_delay: 5, clipping_threshold: -1, crest_factor_margin: 3, use_predicted_step: 1 }}}, gain_controller2: { enabled: 0, fixed_digital: { gain_db: 0 }, adaptive_digital: { enabled: 1, headroom_db: 5, max_gain_db: 50, initial_gain_db: 15, max_gain_change_db_per_second: 6, max_output_noise_level_dbfs: -50 }, input_volume_control : { enabled 0}}
-[2025-09-01 08:42:22.528] [3771] (clipping_predictor.cc:358): [AGC2] Clipping prediction disabled.
-[2025-09-01 08:42:22.528] [3771] (agc_manager_direct.cc:481): [agc] analog controller enabled: yes
-[2025-09-01 08:42:22.528] [3771] (agc_manager_direct.cc:484): [agc] Min mic level: 12 (overridden: no)
-[2025-09-01 08:42:22.528] [3771] (captured_audio_processor.cpp:165): SetNoiseCancellation: 0
-[2025-09-01 08:42:22.528] [3771] (audio_processing_impl.cc:673): AudioProcessing::ApplyConfig: AudioProcessing::Config{ pipeline: { maximum_internal_processing_rate: 48000, multi_channel_render: 0, multi_channel_capture: 0 }, pre_amplifier: { enabled: 0, fixed_gain_factor: 1 },capture_level_adjustment: { enabled: 0, pre_gain_factor: 1, post_gain_factor: 1, analog_mic_gain_emulation: { enabled: 0, initial_level: 255 }}, high_pass_filter: { enabled: 1 }, echo_canceller: { enabled: 1, mobile_mode: 0, enforce_high_pass_filtering: 1 }, noise_suppression: { enabled: 1, level: High }, transient_suppression: { enabled: 0 }, gain_controller1: { enabled: 1, mode: AdaptiveAnalog, target_level_dbfs: 3, compression_gain_db: 9, enable_limiter: 1, analog_gain_controller { enabled: 1, startup_min_volume: 0, clipped_level_min: 70, enable_digital_adaptive: 1, clipped_level_step: 15, clipped_ratio_threshold: 0.1, clipped_wait_frames: 300, clipping_predictor:  { enabled: 0, mode: 0, window_length: 5, reference_window_length: 5, reference_window_delay: 5, clipping_threshold: -1, crest_factor_margin: 3, use_predicted_step: 1 }}}, gain_controller2: { enabled: 0, fixed_digital: { gain_db: 0 }, adaptive_digital: { enabled: 1, headroom_db: 5, max_gain_db: 50, initial_gain_db: 15, max_gain_change_db_per_second: 6, max_output_noise_level_dbfs: -50 }, input_volume_control : { enabled 0}}
-[2025-09-01 08:42:22.528] [3771] (field_trial.cc:164): Setting field trial string:WebRTC-Audio-NetEqDecisionLogicConfig/reinit_after_expands:100/
-[2025-09-01 08:42:22.534] [3771] (engine.cpp:133): *** OnDevicesChanged:
-[2025-09-01 08:42:22.534] [3771] (engine.cpp:134): * audioInput:
-[2025-09-01 08:42:22.534] [3771] (engine.cpp:139): * audioOutput:
-[2025-09-01 08:42:22.534] [3771] (engine.cpp:656): Setting audio input device id: 'default'
-[2025-09-01 08:42:22.534] [3771] (audio_engine.cpp:213): Setting audio input device: 'default'
-[2025-09-01 08:42:22.534] [3771] (audio_device_impl.cc:782): RecordingIsInitialized
-[2025-09-01 08:42:22.534] [3771] (audio_device_impl.cc:534): SetStereoRecording(1)
-[2025-09-01 08:42:22.534] [3771] (audio_device_buffer.cc:217): SetRecordingChannels(2)
-[2025-09-01 08:42:22.534] [3771] (audio_device_impl.cc:732): SetRecordingDevice(0)
-[2025-09-01 08:42:22.534] [3771] (audio_device_impl.cc:522): StereoRecordingIsAvailable
-[2025-09-01 08:42:22.534] [3771] (audio_device_impl.cc:529): output: 1
-[2025-09-01 08:42:22.534] [3771] (audio_device_impl.cc:534): SetStereoRecording(1)
-[2025-09-01 08:42:22.534] [3771] (audio_device_buffer.cc:217): SetRecordingChannels(2)
-[2025-09-01 08:42:22.534] [3771] (audio_mixer_manager_pulse_linux.cc:669): input device index has not been set
-[2025-09-01 08:42:22.534] [3771] (audio_device_impl.cc:503): SetMicrophoneVolume(255)
-[2025-09-01 08:42:22.534] [3771] (audio_mixer_manager_pulse_linux.cc:575): input device index has not been set
-[2025-09-01 08:42:22.534] [3771] (audio_engine.cpp:230): Setting audio output device: 'default'
-[2025-09-01 08:42:22.534] [3771] (audio_device_impl.cc:776): PlayoutIsInitialized
-[2025-09-01 08:42:22.534] [3771] (audio_device_impl.cc:664): SetPlayoutDevice(0)
-[2025-09-01 08:42:22.535] [3771] (audio_device_impl.cc:568): StereoPlayoutIsAvailable
-[2025-09-01 08:42:22.535] [3771] (audio_device_impl.cc:575): output: 1
-[2025-09-01 08:42:22.535] [3771] (audio_device_impl.cc:580): SetStereoPlayout(1)
-[2025-09-01 08:42:22.535] [3771] (audio_device_buffer.cc:223): SetPlayoutChannels(2)
-[2025-09-01 08:42:22.535] [3771] (engine.cpp:133): *** OnDevicesChanged:
-[2025-09-01 08:42:22.535] [3771] (engine.cpp:134): * audioInput:
-[2025-09-01 08:42:22.535] [3771] (engine.cpp:137): - default: Raptor Lake-P/U/H cAVS Digital Microphone ()
-[2025-09-01 08:42:22.535] [3771] (engine.cpp:137): - Raptor Lake-P/U/H cAVS Stereo Microphone ()
-[2025-09-01 08:42:22.535] [3771] (engine.cpp:137): - Raptor Lake-P/U/H cAVS Digital Microphone ()
-[2025-09-01 08:42:22.535] [3771] (engine.cpp:139): * audioOutput:
-[2025-09-01 08:42:22.535] [3771] (engine.cpp:142): - default: Raptor Lake-P/U/H cAVS Headphones ()
-[2025-09-01 08:42:22.535] [3771] (engine.cpp:142): - Raptor Lake-P/U/H cAVS HDMI / DisplayPort 3 Output ()
-[2025-09-01 08:42:22.535] [3771] (engine.cpp:142): - Raptor Lake-P/U/H cAVS HDMI / DisplayPort 2 Output ()
-[2025-09-01 08:42:22.535] [3771] (engine.cpp:142): - Raptor Lake-P/U/H cAVS HDMI / DisplayPort 1 Output ()
-[2025-09-01 08:42:22.535] [3771] (engine.cpp:142): - Raptor Lake-P/U/H cAVS Headphones ()
-[2025-09-01 08:42:22.614] [3771] (engine.cpp:656): Setting audio input device id: 'default'
-[2025-09-01 08:42:22.614] [3771] (audio_engine.cpp:213): Setting audio input device: 'default'
-[2025-09-01 08:42:22.614] [3771] (audio_device_impl.cc:782): RecordingIsInitialized
-[2025-09-01 08:42:22.614] [3771] (audio_device_impl.cc:534): SetStereoRecording(1)
-[2025-09-01 08:42:22.614] [3771] (audio_device_buffer.cc:217): SetRecordingChannels(2)
-[2025-09-01 08:42:22.614] [3771] (audio_device_impl.cc:732): SetRecordingDevice(0)
-[2025-09-01 08:42:22.615] [3771] (audio_device_impl.cc:522): StereoRecordingIsAvailable
-[2025-09-01 08:42:22.615] [3771] (audio_device_impl.cc:529): output: 1
-[2025-09-01 08:42:22.615] [3771] (audio_device_impl.cc:534): SetStereoRecording(1)
-[2025-09-01 08:42:22.615] [3771] (audio_device_buffer.cc:217): SetRecordingChannels(2)
-[2025-09-01 08:42:22.615] [3771] (audio_mixer_manager_pulse_linux.cc:669): input device index has not been set
-[2025-09-01 08:42:22.615] [3771] (audio_device_impl.cc:503): SetMicrophoneVolume(255)
-[2025-09-01 08:42:22.615] [3771] (audio_mixer_manager_pulse_linux.cc:575): input device index has not been set
-[2025-09-01 08:42:22.615] [3771] (audio_engine.cpp:230): Setting audio output device: 'default'
-[2025-09-01 08:42:22.615] [3771] (audio_device_impl.cc:776): PlayoutIsInitialized
-[2025-09-01 08:42:22.615] [3771] (audio_device_impl.cc:664): SetPlayoutDevice(0)
-[2025-09-01 08:42:22.616] [3771] (audio_device_impl.cc:568): StereoPlayoutIsAvailable
-[2025-09-01 08:42:22.617] [3771] (audio_device_impl.cc:575): output: 1
-[2025-09-01 08:42:22.617] [3771] (audio_device_impl.cc:580): SetStereoPlayout(1)
-[2025-09-01 08:42:22.617] [3771] (audio_device_buffer.cc:223): SetPlayoutChannels(2)
-[2025-09-01 08:42:22.617] [3771] (audio_mixer_manager_pulse_linux.cc:669): input device index has not been set
-[2025-09-01 08:42:22.617] [3771] (audio_device_impl.cc:503): SetMicrophoneVolume(255)
-[2025-09-01 08:42:22.617] [3771] (audio_mixer_manager_pulse_linux.cc:575): input device index has not been set
-[2025-09-01 08:42:22.617] [3771] (engine_audio_transport.cpp:608): EngineAudioTransport::SetSidechainCompression 1
-[2025-09-01 08:42:22.617] [3771] (engine_audio_transport.cpp:619): EngineAudioTransport::ApplySidechainCompressionSettings  threshold: -32.5 ratio: 0.433333
-[2025-09-01 08:42:22.667] [3771] (engine.cpp:656): Setting audio input device id: 'default'
-[2025-09-01 08:42:22.667] [3771] (audio_engine.cpp:213): Setting audio input device: 'default'
-[2025-09-01 08:42:22.667] [3771] (audio_device_impl.cc:782): RecordingIsInitialized
-[2025-09-01 08:42:22.667] [3771] (audio_device_impl.cc:534): SetStereoRecording(1)
-[2025-09-01 08:42:22.668] [3771] (audio_device_buffer.cc:217): SetRecordingChannels(2)
-[2025-09-01 08:42:22.668] [3771] (audio_device_impl.cc:732): SetRecordingDevice(0)
-[2025-09-01 08:42:22.669] [3771] (audio_device_impl.cc:522): StereoRecordingIsAvailable
-[2025-09-01 08:42:22.670] [3771] (audio_device_impl.cc:529): output: 1
-[2025-09-01 08:42:22.670] [3771] (audio_device_impl.cc:534): SetStereoRecording(1)
-[2025-09-01 08:42:22.670] [3771] (audio_device_buffer.cc:217): SetRecordingChannels(2)
-[2025-09-01 08:42:22.670] [3771] (audio_mixer_manager_pulse_linux.cc:669): input device index has not been set
-[2025-09-01 08:42:22.670] [3771] (audio_device_impl.cc:503): SetMicrophoneVolume(255)
-[2025-09-01 08:42:22.670] [3771] (audio_mixer_manager_pulse_linux.cc:575): input device index has not been set
-[2025-09-01 08:42:22.670] [3771] (audio_engine.cpp:230): Setting audio output device: 'default'
-[2025-09-01 08:42:22.670] [3771] (audio_device_impl.cc:776): PlayoutIsInitialized
-[2025-09-01 08:42:22.670] [3771] (audio_device_impl.cc:664): SetPlayoutDevice(0)
-[2025-09-01 08:42:22.671] [3771] (audio_device_impl.cc:568): StereoPlayoutIsAvailable
-[2025-09-01 08:42:22.671] [3771] (audio_device_impl.cc:575): output: 1
-[2025-09-01 08:42:22.671] [3771] (audio_device_impl.cc:580): SetStereoPlayout(1)
-[2025-09-01 08:42:22.671] [3771] (audio_device_buffer.cc:223): SetPlayoutChannels(2)
-[2025-09-01 08:42:22.671] [3771] (engine.cpp:656): Setting audio input device id: 'default'
-[2025-09-01 08:42:22.671] [3771] (audio_engine.cpp:213): Setting audio input device: 'default'
-[2025-09-01 08:42:22.671] [3771] (audio_device_impl.cc:782): RecordingIsInitialized
-[2025-09-01 08:42:22.671] [3771] (audio_device_impl.cc:534): SetStereoRecording(1)
-[2025-09-01 08:42:22.671] [3771] (audio_device_buffer.cc:217): SetRecordingChannels(2)
-[2025-09-01 08:42:22.671] [3771] (audio_device_impl.cc:732): SetRecordingDevice(0)
-[2025-09-01 08:42:22.673] [3771] (audio_device_impl.cc:522): StereoRecordingIsAvailable
-[2025-09-01 08:42:22.673] [3771] (audio_device_impl.cc:529): output: 1
-[2025-09-01 08:42:22.673] [3771] (audio_device_impl.cc:534): SetStereoRecording(1)
-[2025-09-01 08:42:22.673] [3771] (audio_device_buffer.cc:217): SetRecordingChannels(2)
-[2025-09-01 08:42:22.673] [3771] (audio_mixer_manager_pulse_linux.cc:669): input device index has not been set
-[2025-09-01 08:42:22.673] [3771] (audio_device_impl.cc:503): SetMicrophoneVolume(255)
-[2025-09-01 08:42:22.673] [3771] (audio_mixer_manager_pulse_linux.cc:575): input device index has not been set
-[2025-09-01 08:42:22.673] [3771] (audio_engine.cpp:230): Setting audio output device: 'default'
-[2025-09-01 08:42:22.673] [3771] (audio_device_impl.cc:776): PlayoutIsInitialized
-[2025-09-01 08:42:22.673] [3771] (audio_device_impl.cc:664): SetPlayoutDevice(0)
-[2025-09-01 08:42:22.674] [3771] (audio_device_impl.cc:568): StereoPlayoutIsAvailable
-[2025-09-01 08:42:22.675] [3771] (audio_device_impl.cc:575): output: 1
-[2025-09-01 08:42:22.675] [3771] (audio_device_impl.cc:580): SetStereoPlayout(1)
-[2025-09-01 08:42:22.675] [3771] (audio_device_buffer.cc:223): SetPlayoutChannels(2)
-[2025-09-01 08:42:23.256] [3627] JS console: [GatewaySocket] [FAST CONNECT] successfully took over websocket, state:
-[2025-09-01 08:42:23.256] [3627] JS console: [GatewaySocket] [CONNECTED] wss://gateway.discord.gg/?encoding=etf&v=9&compress=zstd-stream in 1 ms
-[2025-09-01 08:42:24.943] [3627] JS console: [GatewaySocket] [READY] took 1688ms, as 4f720b30c01ce7287ab890a72ea0c6e2
-[2025-09-01 08:42:25.423] [3627] JS console: [GatewaySocket] [READY_SUPPLEMENTAL] took 2167ms
-[2025-09-01 08:42:53.841] [3880] (region_latency_tester.cpp:73): Sending 5 latency test pings to region singapore
-[2025-09-01 08:42:53.841] [3880] (region_latency_tester.cpp:73): Sending 5 latency test pings to region hongkong
-[2025-09-01 08:42:53.842] [3880] (region_latency_tester.cpp:73): Sending 5 latency test pings to region japan
-[2025-09-01 08:42:53.842] [3880] (region_latency_tester.cpp:73): Sending 5 latency test pings to region sydney
-[2025-09-01 08:42:53.842] [3880] (region_latency_tester.cpp:73): Sending 5 latency test pings to region india
-[2025-09-01 08:42:58.846] [3880] (region_latency_tester.cpp:181): Timing out 1 remaining latency test pings
-[2025-09-01 08:42:58.846] [3880] (region_latency_tester.cpp:288): Average RTT for region singapore is 38
-[2025-09-01 08:42:58.846] [3880] (region_latency_tester.cpp:288): Average RTT for region hongkong is 75.75
-[2025-09-01 08:42:58.846] [3880] (region_latency_tester.cpp:288): Average RTT for region japan is 114.25
-[2025-09-01 08:42:58.846] [3880] (region_latency_tester.cpp:288): Average RTT for region sydney is 160.75
-[2025-09-01 08:42:58.846] [3880] (region_latency_tester.cpp:288): Average RTT for region india is 129.25
-[2025-09-01 08:47:47.169] [3627] JS console: [GatewaySocket] [WS CLOSED] (false, 1006, ) retrying in 1.08 seconds.
-[2025-09-01 08:47:48.250] [3627] JS console: [GatewaySocket] [CONNECT] wss://gateway-us-east1-d.discord.gg, encoding: etf, version: 9, compression: zstd-stream
-[2025-09-01 08:47:48.687] [3627] JS console: [GatewaySocket] [CONNECTED] wss://gateway-us-east1-d.discord.gg/?encoding=etf&v=9&compress=zstd-stream in 436 ms
-[2025-09-01 08:47:48.688] [3627] JS console: [GatewaySocket] [RESUME] resuming session 4f720b30c01ce7287ab890a72ea0c6e2, seq: 134
-[2025-09-01 08:47:49.036] [3627] JS console: [GatewaySocket] [RESUMED] took 786ms, replayed 0 events, new seq: 155
-[2025-09-01 08:57:22.529] [3771] (instrumented_task.cpp:52): polling 28 metrics
+[2025-09-09 08:34:29.402] [6402] (audio_processing_impl.cc:474): AudioProcessing: AudioProcessing::Config{ pipeline: { maximum_internal_processing_rate: 48000, multi_channel_render: 0, multi_channel_capture: 0 }, pre_amplifier: { enabled: 0, fixed_gain_factor: 1 },capture_level_adjustment: { enabled: 0, pre_gain_factor: 1, post_gain_factor: 1, analog_mic_gain_emulation: { enabled: 0, initial_level: 255 }}, high_pass_filter: { enabled: 0 }, echo_canceller: { enabled: 0, mobile_mode: 0, enforce_high_pass_filtering: 1 }, noise_suppression: { enabled: 0, level: Moderate }, transient_suppression: { enabled: 0 }, gain_controller1: { enabled: 0, mode: AdaptiveAnalog, target_level_dbfs: 3, compression_gain_db: 9, enable_limiter: 1, analog_gain_controller { enabled: 1, startup_min_volume: 0, clipped_level_min: 70, enable_digital_adaptive: 1, clipped_level_step: 15, clipped_ratio_threshold: 0.1, clipped_wait_frames: 300, clipping_predictor:  { enabled: 0, mode: 0, window_length: 5, reference_window_length: 5, reference_window_delay: 5, clipping_threshold: -1, crest_factor_margin: 3, use_predicted_step: 1 }}}, gain_controller2: { enabled: 0, fixed_digital: { gain_db: 0 }, adaptive_digital: { enabled: 0, headroom_db: 5, max_gain_db: 50, initial_gain_db: 15, max_gain_change_db_per_second: 6, max_output_noise_level_dbfs: -50 }, input_volume_control : { enabled 0}}
+[2025-09-09 08:34:29.402] [6402] (audio_engine.cpp:604): Creating audio engine: standard
+[2025-09-09 08:34:29.402] [6402] (audio_device_impl.cc:320): Init
+[2025-09-09 08:34:29.406] [6402] (audio_device_impl.cc:320): Init
+[2025-09-09 08:34:29.408] [6402] (audio_coding.cpp:158): Using software Opus decoder
+[2025-09-09 08:34:29.408] [6402] (audio_coding.cpp:175): Using software Opus encoder
+[2025-09-09 08:34:29.408] [6402] (audio_device_impl.cc:851): RegisterAudioCallback
+[2025-09-09 08:34:29.408] [6402] (audio_mixer_manager_pulse_linux.cc:669): input device index has not been set
+[2025-09-09 08:34:29.408] [6402] (audio_device_impl.cc:503): SetMicrophoneVolume(255)
+[2025-09-09 08:34:29.408] [6402] (audio_mixer_manager_pulse_linux.cc:575): input device index has not been set
+[2025-09-09 08:34:29.408] [6402] (audio_device_impl.cc:851): RegisterAudioCallback
+[2025-09-09 08:34:29.408] [6402] (audio_engine.cpp:213): Setting audio input device: 'default'
+[2025-09-09 08:34:29.408] [6402] (audio_device_impl.cc:534): SetStereoRecording(1)
+[2025-09-09 08:34:29.408] [6402] (audio_device_buffer.cc:217): SetRecordingChannels(2)
+[2025-09-09 08:34:29.408] [6402] (audio_device_impl.cc:732): SetRecordingDevice(0)
+[2025-09-09 08:34:29.409] [6402] (audio_device_impl.cc:522): StereoRecordingIsAvailable
+[2025-09-09 08:34:29.409] [6402] (audio_device_impl.cc:529): output: 1
+[2025-09-09 08:34:29.409] [6402] (audio_device_impl.cc:534): SetStereoRecording(1)
+[2025-09-09 08:34:29.409] [6402] (audio_device_buffer.cc:217): SetRecordingChannels(2)
+[2025-09-09 08:34:29.409] [6402] (audio_mixer_manager_pulse_linux.cc:669): input device index has not been set
+[2025-09-09 08:34:29.409] [6402] (audio_device_impl.cc:503): SetMicrophoneVolume(255)
+[2025-09-09 08:34:29.409] [6402] (audio_mixer_manager_pulse_linux.cc:575): input device index has not been set
+[2025-09-09 08:34:29.409] [6402] (audio_engine.cpp:230): Setting audio output device: 'default'
+[2025-09-09 08:34:29.409] [6402] (audio_device_impl.cc:664): SetPlayoutDevice(0)
+[2025-09-09 08:34:29.409] [6402] (audio_device_impl.cc:568): StereoPlayoutIsAvailable
+[2025-09-09 08:34:29.410] [6402] (audio_device_impl.cc:575): output: 1
+[2025-09-09 08:34:29.410] [6402] (audio_device_impl.cc:580): SetStereoPlayout(1)
+[2025-09-09 08:34:29.410] [6402] (audio_device_buffer.cc:223): SetPlayoutChannels(2)
+[2025-09-09 08:34:29.410] [6402] (audio_device_impl.cc:867): BuiltInAECIsAvailable
+[2025-09-09 08:34:29.410] [6402] (audio_device_generic.cc:32): BuiltInAECIsAvailable: Not supported on this platform
+[2025-09-09 08:34:29.410] [6402] (audio_device_impl.cc:870): output: 0
+[2025-09-09 08:34:29.410] [6402] (audio_processing_impl.cc:673): AudioProcessing::ApplyConfig: AudioProcessing::Config{ pipeline: { maximum_internal_processing_rate: 48000, multi_channel_render: 0, multi_channel_capture: 0 }, pre_amplifier: { enabled: 0, fixed_gain_factor: 1 },capture_level_adjustment: { enabled: 0, pre_gain_factor: 1, post_gain_factor: 1, analog_mic_gain_emulation: { enabled: 0, initial_level: 255 }}, high_pass_filter: { enabled: 1 }, echo_canceller: { enabled: 1, mobile_mode: 0, enforce_high_pass_filtering: 1 }, noise_suppression: { enabled: 0, level: Moderate }, transient_suppression: { enabled: 0 }, gain_controller1: { enabled: 0, mode: AdaptiveAnalog, target_level_dbfs: 3, compression_gain_db: 9, enable_limiter: 1, analog_gain_controller { enabled: 1, startup_min_volume: 0, clipped_level_min: 70, enable_digital_adaptive: 1, clipped_level_step: 15, clipped_ratio_threshold: 0.1, clipped_wait_frames: 300, clipping_predictor:  { enabled: 0, mode: 0, window_length: 5, reference_window_length: 5, reference_window_delay: 5, clipping_threshold: -1, crest_factor_margin: 3, use_predicted_step: 1 }}}, gain_controller2: { enabled: 0, fixed_digital: { gain_db: 0 }, adaptive_digital: { enabled: 0, headroom_db: 5, max_gain_db: 50, initial_gain_db: 15, max_gain_change_db_per_second: 6, max_output_noise_level_dbfs: -50 }, input_volume_control : { enabled 0}}
+[2025-09-09 08:34:29.410] [6402] (transparent_mode.cc:240): AEC3 Transparent Mode: Legacy
+[2025-09-09 08:34:29.410] [6402] (echo_canceller3.cc:792): AEC3 created with sample rate: 16000 Hz, num render channels: 1, num capture channels: 1
+[2025-09-09 08:34:29.410] [6402] (audio_processing_impl.cc:673): AudioProcessing::ApplyConfig: AudioProcessing::Config{ pipeline: { maximum_internal_processing_rate: 48000, multi_channel_render: 0, multi_channel_capture: 0 }, pre_amplifier: { enabled: 0, fixed_gain_factor: 1 },capture_level_adjustment: { enabled: 0, pre_gain_factor: 1, post_gain_factor: 1, analog_mic_gain_emulation: { enabled: 0, initial_level: 255 }}, high_pass_filter: { enabled: 1 }, echo_canceller: { enabled: 1, mobile_mode: 0, enforce_high_pass_filtering: 1 }, noise_suppression: { enabled: 0, level: Moderate }, transient_suppression: { enabled: 0 }, gain_controller1: { enabled: 1, mode: AdaptiveAnalog, target_level_dbfs: 3, compression_gain_db: 9, enable_limiter: 1, analog_gain_controller { enabled: 1, startup_min_volume: 0, clipped_level_min: 70, enable_digital_adaptive: 1, clipped_level_step: 15, clipped_ratio_threshold: 0.1, clipped_wait_frames: 300, clipping_predictor:  { enabled: 0, mode: 0, window_length: 5, reference_window_length: 5, reference_window_delay: 5, clipping_threshold: -1, crest_factor_margin: 3, use_predicted_step: 1 }}}, gain_controller2: { enabled: 0, fixed_digital: { gain_db: 0 }, adaptive_digital: { enabled: 1, headroom_db: 5, max_gain_db: 50, initial_gain_db: 15, max_gain_change_db_per_second: 6, max_output_noise_level_dbfs: -50 }, input_volume_control : { enabled 0}}
+[2025-09-09 08:34:29.410] [6402] (clipping_predictor.cc:358): [AGC2] Clipping prediction disabled.
+[2025-09-09 08:34:29.410] [6402] (agc_manager_direct.cc:481): [agc] analog controller enabled: yes
+[2025-09-09 08:34:29.410] [6402] (agc_manager_direct.cc:484): [agc] Min mic level: 12 (overridden: no)
+[2025-09-09 08:34:29.410] [6402] (captured_audio_processor.cpp:165): SetNoiseCancellation: 0
+[2025-09-09 08:34:29.410] [6402] (audio_processing_impl.cc:673): AudioProcessing::ApplyConfig: AudioProcessing::Config{ pipeline: { maximum_internal_processing_rate: 48000, multi_channel_render: 0, multi_channel_capture: 0 }, pre_amplifier: { enabled: 0, fixed_gain_factor: 1 },capture_level_adjustment: { enabled: 0, pre_gain_factor: 1, post_gain_factor: 1, analog_mic_gain_emulation: { enabled: 0, initial_level: 255 }}, high_pass_filter: { enabled: 1 }, echo_canceller: { enabled: 1, mobile_mode: 0, enforce_high_pass_filtering: 1 }, noise_suppression: { enabled: 1, level: High }, transient_suppression: { enabled: 0 }, gain_controller1: { enabled: 1, mode: AdaptiveAnalog, target_level_dbfs: 3, compression_gain_db: 9, enable_limiter: 1, analog_gain_controller { enabled: 1, startup_min_volume: 0, clipped_level_min: 70, enable_digital_adaptive: 1, clipped_level_step: 15, clipped_ratio_threshold: 0.1, clipped_wait_frames: 300, clipping_predictor:  { enabled: 0, mode: 0, window_length: 5, reference_window_length: 5, reference_window_delay: 5, clipping_threshold: -1, crest_factor_margin: 3, use_predicted_step: 1 }}}, gain_controller2: { enabled: 0, fixed_digital: { gain_db: 0 }, adaptive_digital: { enabled: 1, headroom_db: 5, max_gain_db: 50, initial_gain_db: 15, max_gain_change_db_per_second: 6, max_output_noise_level_dbfs: -50 }, input_volume_control : { enabled 0}}
+[2025-09-09 08:34:29.410] [6402] (field_trial.cc:164): Setting field trial string:WebRTC-Audio-NetEqDecisionLogicConfig/reinit_after_expands:100/
+[2025-09-09 08:34:29.429] [6402] (engine.cpp:133): *** OnDevicesChanged:
+[2025-09-09 08:34:29.429] [6402] (engine.cpp:134): * audioInput:
+[2025-09-09 08:34:29.429] [6402] (engine.cpp:139): * audioOutput:
+[2025-09-09 08:34:29.429] [6402] (engine.cpp:656): Setting audio input device id: 'default'
+[2025-09-09 08:34:29.429] [6402] (audio_engine.cpp:213): Setting audio input device: 'default'
+[2025-09-09 08:34:29.429] [6402] (audio_device_impl.cc:782): RecordingIsInitialized
+[2025-09-09 08:34:29.429] [6402] (audio_device_impl.cc:534): SetStereoRecording(1)
+[2025-09-09 08:34:29.429] [6402] (audio_device_buffer.cc:217): SetRecordingChannels(2)
+[2025-09-09 08:34:29.429] [6402] (audio_device_impl.cc:732): SetRecordingDevice(0)
+[2025-09-09 08:34:29.429] [6402] (audio_device_impl.cc:522): StereoRecordingIsAvailable
+[2025-09-09 08:34:29.429] [6402] (audio_device_impl.cc:529): output: 1
+[2025-09-09 08:34:29.429] [6402] (audio_device_impl.cc:534): SetStereoRecording(1)
+[2025-09-09 08:34:29.429] [6402] (audio_device_buffer.cc:217): SetRecordingChannels(2)
+[2025-09-09 08:34:29.429] [6402] (audio_mixer_manager_pulse_linux.cc:669): input device index has not been set
+[2025-09-09 08:34:29.429] [6402] (audio_device_impl.cc:503): SetMicrophoneVolume(255)
+[2025-09-09 08:34:29.429] [6402] (audio_mixer_manager_pulse_linux.cc:575): input device index has not been set
+[2025-09-09 08:34:29.429] [6402] (audio_engine.cpp:230): Setting audio output device: 'default'
+[2025-09-09 08:34:29.429] [6402] (audio_device_impl.cc:776): PlayoutIsInitialized
+[2025-09-09 08:34:29.429] [6402] (audio_device_impl.cc:664): SetPlayoutDevice(0)
+[2025-09-09 08:34:29.430] [6402] (audio_device_impl.cc:568): StereoPlayoutIsAvailable
+[2025-09-09 08:34:29.430] [6402] (audio_device_impl.cc:575): output: 1
+[2025-09-09 08:34:29.430] [6402] (audio_device_impl.cc:580): SetStereoPlayout(1)
+[2025-09-09 08:34:29.430] [6402] (audio_device_buffer.cc:223): SetPlayoutChannels(2)
+[2025-09-09 08:34:29.430] [6402] (engine.cpp:133): *** OnDevicesChanged:
+[2025-09-09 08:34:29.430] [6402] (engine.cpp:134): * audioInput:
+[2025-09-09 08:34:29.430] [6402] (engine.cpp:137): - default: Raptor Lake-P/U/H cAVS Digital Microphone ()
+[2025-09-09 08:34:29.430] [6402] (engine.cpp:137): - Raptor Lake-P/U/H cAVS Stereo Microphone ()
+[2025-09-09 08:34:29.430] [6402] (engine.cpp:137): - Raptor Lake-P/U/H cAVS Digital Microphone ()
+[2025-09-09 08:34:29.430] [6402] (engine.cpp:139): * audioOutput:
+[2025-09-09 08:34:29.430] [6402] (engine.cpp:142): - default: Raptor Lake-P/U/H cAVS Speaker ()
+[2025-09-09 08:34:29.430] [6402] (engine.cpp:142): - Raptor Lake-P/U/H cAVS HDMI / DisplayPort 3 Output ()
+[2025-09-09 08:34:29.430] [6402] (engine.cpp:142): - Raptor Lake-P/U/H cAVS HDMI / DisplayPort 2 Output ()
+[2025-09-09 08:34:29.430] [6402] (engine.cpp:142): - Raptor Lake-P/U/H cAVS HDMI / DisplayPort 1 Output ()
+[2025-09-09 08:34:29.430] [6402] (engine.cpp:142): - Raptor Lake-P/U/H cAVS Speaker ()
+[2025-09-09 08:34:29.634] [6402] (engine.cpp:656): Setting audio input device id: 'default'
+[2025-09-09 08:34:29.634] [6402] (audio_engine.cpp:213): Setting audio input device: 'default'
+[2025-09-09 08:34:29.634] [6402] (audio_device_impl.cc:782): RecordingIsInitialized
+[2025-09-09 08:34:29.634] [6402] (audio_device_impl.cc:534): SetStereoRecording(1)
+[2025-09-09 08:34:29.634] [6402] (audio_device_buffer.cc:217): SetRecordingChannels(2)
+[2025-09-09 08:34:29.634] [6402] (audio_device_impl.cc:732): SetRecordingDevice(0)
+[2025-09-09 08:34:29.635] [6402] (audio_device_impl.cc:522): StereoRecordingIsAvailable
+[2025-09-09 08:34:29.635] [6402] (audio_device_impl.cc:529): output: 1
+[2025-09-09 08:34:29.635] [6402] (audio_device_impl.cc:534): SetStereoRecording(1)
+[2025-09-09 08:34:29.635] [6402] (audio_device_buffer.cc:217): SetRecordingChannels(2)
+[2025-09-09 08:34:29.635] [6402] (audio_mixer_manager_pulse_linux.cc:669): input device index has not been set
+[2025-09-09 08:34:29.635] [6402] (audio_device_impl.cc:503): SetMicrophoneVolume(255)
+[2025-09-09 08:34:29.635] [6402] (audio_mixer_manager_pulse_linux.cc:575): input device index has not been set
+[2025-09-09 08:34:29.635] [6402] (audio_engine.cpp:230): Setting audio output device: 'default'
+[2025-09-09 08:34:29.635] [6402] (audio_device_impl.cc:776): PlayoutIsInitialized
+[2025-09-09 08:34:29.635] [6402] (audio_device_impl.cc:664): SetPlayoutDevice(0)
+[2025-09-09 08:34:29.636] [6402] (audio_device_impl.cc:568): StereoPlayoutIsAvailable
+[2025-09-09 08:34:29.636] [6402] (audio_device_impl.cc:575): output: 1
+[2025-09-09 08:34:29.636] [6402] (audio_device_impl.cc:580): SetStereoPlayout(1)
+[2025-09-09 08:34:29.636] [6402] (audio_device_buffer.cc:223): SetPlayoutChannels(2)
+[2025-09-09 08:34:29.636] [6402] (audio_mixer_manager_pulse_linux.cc:669): input device index has not been set
+[2025-09-09 08:34:29.636] [6402] (audio_device_impl.cc:503): SetMicrophoneVolume(255)
+[2025-09-09 08:34:29.636] [6402] (audio_mixer_manager_pulse_linux.cc:575): input device index has not been set
+[2025-09-09 08:34:29.636] [6402] (engine_audio_transport.cpp:608): EngineAudioTransport::SetSidechainCompression 1
+[2025-09-09 08:34:29.636] [6402] (engine_audio_transport.cpp:619): EngineAudioTransport::ApplySidechainCompressionSettings  threshold: -32.5 ratio: 0.433333
+[2025-09-09 08:34:29.839] [6402] (engine.cpp:656): Setting audio input device id: 'default'
+[2025-09-09 08:34:29.839] [6402] (audio_engine.cpp:213): Setting audio input device: 'default'
+[2025-09-09 08:34:29.839] [6402] (audio_device_impl.cc:782): RecordingIsInitialized
+[2025-09-09 08:34:29.839] [6402] (audio_device_impl.cc:534): SetStereoRecording(1)
+[2025-09-09 08:34:29.839] [6402] (audio_device_buffer.cc:217): SetRecordingChannels(2)
+[2025-09-09 08:34:29.839] [6402] (audio_device_impl.cc:732): SetRecordingDevice(0)
+[2025-09-09 08:34:29.840] [6402] (audio_device_impl.cc:522): StereoRecordingIsAvailable
+[2025-09-09 08:34:29.840] [6402] (audio_device_impl.cc:529): output: 1
+[2025-09-09 08:34:29.840] [6402] (audio_device_impl.cc:534): SetStereoRecording(1)
+[2025-09-09 08:34:29.840] [6402] (audio_device_buffer.cc:217): SetRecordingChannels(2)
+[2025-09-09 08:34:29.840] [6402] (audio_mixer_manager_pulse_linux.cc:669): input device index has not been set
+[2025-09-09 08:34:29.840] [6402] (audio_device_impl.cc:503): SetMicrophoneVolume(255)
+[2025-09-09 08:34:29.840] [6402] (audio_mixer_manager_pulse_linux.cc:575): input device index has not been set
+[2025-09-09 08:34:29.840] [6402] (audio_engine.cpp:230): Setting audio output device: 'default'
+[2025-09-09 08:34:29.840] [6402] (audio_device_impl.cc:776): PlayoutIsInitialized
+[2025-09-09 08:34:29.840] [6402] (audio_device_impl.cc:664): SetPlayoutDevice(0)
+[2025-09-09 08:34:29.841] [6402] (audio_device_impl.cc:568): StereoPlayoutIsAvailable
+[2025-09-09 08:34:29.841] [6402] (audio_device_impl.cc:575): output: 1
+[2025-09-09 08:34:29.841] [6402] (audio_device_impl.cc:580): SetStereoPlayout(1)
+[2025-09-09 08:34:29.841] [6402] (audio_device_buffer.cc:223): SetPlayoutChannels(2)
+[2025-09-09 08:34:29.842] [6402] (engine.cpp:656): Setting audio input device id: 'default'
+[2025-09-09 08:34:29.842] [6402] (audio_engine.cpp:213): Setting audio input device: 'default'
+[2025-09-09 08:34:29.842] [6402] (audio_device_impl.cc:782): RecordingIsInitialized
+[2025-09-09 08:34:29.842] [6402] (audio_device_impl.cc:534): SetStereoRecording(1)
+[2025-09-09 08:34:29.842] [6402] (audio_device_buffer.cc:217): SetRecordingChannels(2)
+[2025-09-09 08:34:29.842] [6402] (audio_device_impl.cc:732): SetRecordingDevice(0)
+[2025-09-09 08:34:29.842] [6402] (audio_device_impl.cc:522): StereoRecordingIsAvailable
+[2025-09-09 08:34:29.842] [6402] (audio_device_impl.cc:529): output: 1
+[2025-09-09 08:34:29.842] [6402] (audio_device_impl.cc:534): SetStereoRecording(1)
+[2025-09-09 08:34:29.843] [6402] (audio_device_buffer.cc:217): SetRecordingChannels(2)
+[2025-09-09 08:34:29.843] [6402] (audio_mixer_manager_pulse_linux.cc:669): input device index has not been set
+[2025-09-09 08:34:29.843] [6402] (audio_device_impl.cc:503): SetMicrophoneVolume(255)
+[2025-09-09 08:34:29.843] [6402] (audio_mixer_manager_pulse_linux.cc:575): input device index has not been set
+[2025-09-09 08:34:29.843] [6402] (audio_engine.cpp:230): Setting audio output device: 'default'
+[2025-09-09 08:34:29.843] [6402] (audio_device_impl.cc:776): PlayoutIsInitialized
+[2025-09-09 08:34:29.843] [6402] (audio_device_impl.cc:664): SetPlayoutDevice(0)
+[2025-09-09 08:34:29.843] [6402] (audio_device_impl.cc:568): StereoPlayoutIsAvailable
+[2025-09-09 08:34:29.843] [6402] (audio_device_impl.cc:575): output: 1
+[2025-09-09 08:34:29.843] [6402] (audio_device_impl.cc:580): SetStereoPlayout(1)
+[2025-09-09 08:34:29.843] [6402] (audio_device_buffer.cc:223): SetPlayoutChannels(2)
+[2025-09-09 08:34:31.293] [6366] JS console: [GatewaySocket] [FAST CONNECT] successfully took over websocket, state:
+[2025-09-09 08:34:31.293] [6366] JS console: [GatewaySocket] [CONNECTED] wss://gateway.discord.gg/?encoding=etf&v=9&compress=zstd-stream in 1 ms
+[2025-09-09 08:34:32.921] [6366] JS console: [GatewaySocket] [READY] took 1629ms, as 9d2c08a3682a594afa1577686eb441ab
+[2025-09-09 08:34:33.446] [6366] JS console: [GatewaySocket] [READY_SUPPLEMENTAL] took 2153ms
+[2025-09-09 08:35:05.577] [6539] (region_latency_tester.cpp:73): Sending 5 latency test pings to region singapore
+[2025-09-09 08:35:05.577] [6539] (region_latency_tester.cpp:73): Sending 5 latency test pings to region hongkong
+[2025-09-09 08:35:05.577] [6539] (region_latency_tester.cpp:73): Sending 5 latency test pings to region india
+[2025-09-09 08:35:05.577] [6539] (region_latency_tester.cpp:73): Sending 5 latency test pings to region sydney
+[2025-09-09 08:35:05.577] [6539] (region_latency_tester.cpp:73): Sending 5 latency test pings to region japan
+[2025-09-09 08:35:05.768] [6539] (region_latency_tester.cpp:288): Average RTT for region singapore is 38.25
+[2025-09-09 08:35:05.768] [6539] (region_latency_tester.cpp:288): Average RTT for region hongkong is 66.75
+[2025-09-09 08:35:05.768] [6539] (region_latency_tester.cpp:288): Average RTT for region india is 94
+[2025-09-09 08:35:05.768] [6539] (region_latency_tester.cpp:288): Average RTT for region sydney is 166.5
+[2025-09-09 08:35:05.768] [6539] (region_latency_tester.cpp:288): Average RTT for region japan is 104.75
+[2025-09-09 08:49:28.517] [6402] (instrumented_task.cpp:52): polling 28 metrics
+[2025-09-09 09:04:28.533] [6402] (instrumented_task.cpp:52): polling 1 metrics
+[2025-09-09 09:19:28.535] [6402] (instrumented_task.cpp:52): polling 1 metrics
+[2025-09-09 09:29:39.028] [6402] (audio_engine.cpp:230): Setting audio output device: 'default'
+[2025-09-09 09:29:39.028] [6402] (audio_device_impl.cc:776): PlayoutIsInitialized
+[2025-09-09 09:29:39.028] [6402] (audio_device_impl.cc:664): SetPlayoutDevice(0)
+[2025-09-09 09:29:39.030] [6402] (audio_device_impl.cc:568): StereoPlayoutIsAvailable
+[2025-09-09 09:29:39.031] [6402] (audio_device_impl.cc:575): output: 1
+[2025-09-09 09:29:39.032] [6402] (audio_device_impl.cc:580): SetStereoPlayout(1)
+[2025-09-09 09:29:39.032] [6402] (audio_device_buffer.cc:223): SetPlayoutChannels(2)
+[2025-09-09 09:29:39.032] [6402] (engine.cpp:133): *** OnDevicesChanged:
+[2025-09-09 09:29:39.032] [6402] (engine.cpp:134): * audioInput:
+[2025-09-09 09:29:39.032] [6402] (engine.cpp:137): - default: Raptor Lake-P/U/H cAVS Digital Microphone ()
+[2025-09-09 09:29:39.032] [6402] (engine.cpp:137): - Raptor Lake-P/U/H cAVS Stereo Microphone ()
+[2025-09-09 09:29:39.032] [6402] (engine.cpp:137): - Raptor Lake-P/U/H cAVS Digital Microphone ()
+[2025-09-09 09:29:39.032] [6402] (engine.cpp:139): * audioOutput:
+[2025-09-09 09:29:39.032] [6402] (engine.cpp:142): - default: Raptor Lake-P/U/H cAVS Headphones ()
+[2025-09-09 09:29:39.032] [6402] (engine.cpp:142): - Raptor Lake-P/U/H cAVS HDMI / DisplayPort 3 Output ()
+[2025-09-09 09:29:39.032] [6402] (engine.cpp:142): - Raptor Lake-P/U/H cAVS HDMI / DisplayPort 2 Output ()
+[2025-09-09 09:29:39.032] [6402] (engine.cpp:142): - Raptor Lake-P/U/H cAVS HDMI / DisplayPort 1 Output ()
+[2025-09-09 09:29:39.032] [6402] (engine.cpp:142): - Raptor Lake-P/U/H cAVS Headphones ()
+[2025-09-09 09:29:39.038] [6402] (audio_engine.cpp:230): Setting audio output device: 'default'
+[2025-09-09 09:29:39.038] [6402] (audio_device_impl.cc:776): PlayoutIsInitialized
+[2025-09-09 09:29:39.038] [6402] (audio_device_impl.cc:664): SetPlayoutDevice(0)
+[2025-09-09 09:29:39.040] [6402] (audio_device_impl.cc:568): StereoPlayoutIsAvailable
+[2025-09-09 09:29:39.041] [6402] (audio_device_impl.cc:575): output: 1
+[2025-09-09 09:29:39.041] [6402] (audio_device_impl.cc:580): SetStereoPlayout(1)
+[2025-09-09 09:29:39.041] [6402] (audio_device_buffer.cc:223): SetPlayoutChannels(2)
+[2025-09-09 09:34:28.537] [6402] (instrumented_task.cpp:52): polling 2 metrics
+[2025-09-09 09:49:28.542] [6402] (instrumented_task.cpp:52): polling 1 metrics
+[2025-09-09 10:04:28.545] [6402] (instrumented_task.cpp:52): polling 1 metrics
+[2025-09-09 10:19:28.546] [6402] (instrumented_task.cpp:52): polling 1 metrics
+[2025-09-09 10:34:28.549] [6402] (instrumented_task.cpp:52): polling 1 metrics
+[2025-09-09 10:49:28.551] [6402] (instrumented_task.cpp:52): polling 1 metrics
+[2025-09-09 10:51:13.113] [6366] JS console: [GatewaySocket] [CONNECT] wss://gateway-us-east1-c.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-09-09 10:51:13.622] [6366] JS console: [GatewaySocket] [CONNECTED] wss://gateway-us-east1-c.discord.gg/?encoding=etf&v=9&compress=zstd-stream in 508 ms
+[2025-09-09 10:51:13.623] [6366] JS console: [GatewaySocket] [RESUME] resuming session 9d2c08a3682a594afa1577686eb441ab, seq: 5524
+[2025-09-09 10:51:14.001] [6366] JS console: [GatewaySocket] [RESUMED] took 888ms, replayed 0 events, new seq: 5525
+[2025-09-09 11:04:28.552] [6402] (instrumented_task.cpp:52): polling 1 metrics
+[2025-09-09 11:19:28.554] [6402] (instrumented_task.cpp:52): polling 1 metrics
+[2025-09-09 11:23:24.864] [6366] JS console: [GatewaySocket] [ACK TIMEOUT] reconnecting in 1.91 seconds.
+[2025-09-09 11:23:26.776] [6366] JS console: [GatewaySocket] [CONNECT] wss://gateway-us-east1-c.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-09-09 11:23:27.283] [6366] JS console: [GatewaySocket] [CONNECTED] wss://gateway-us-east1-c.discord.gg/?encoding=etf&v=9&compress=zstd-stream in 507 ms
+[2025-09-09 11:23:27.284] [6366] JS console: [GatewaySocket] [RESUME] resuming session 9d2c08a3682a594afa1577686eb441ab, seq: 6171
+[2025-09-09 11:23:27.662] [6366] JS console: [GatewaySocket] [RESUMED] took 886ms, replayed 0 events, new seq: 6198
+[2025-09-09 11:34:28.557] [6402] (instrumented_task.cpp:52): polling 1 metrics
+[2025-09-09 11:42:11.314] [6366] JS console: [GatewaySocket] [CONNECT] wss://gateway-us-east1-c.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-09-09 11:42:16.465] [6366] JS console: [GatewaySocket] [CONNECTED] wss://gateway-us-east1-c.discord.gg/?encoding=etf&v=9&compress=zstd-stream in 5150 ms
+[2025-09-09 11:42:16.465] [6366] JS console: [GatewaySocket] [RESUME] resuming session 9d2c08a3682a594afa1577686eb441ab, seq: 6632
+[2025-09-09 11:42:16.823] [6366] JS console: [GatewaySocket] [RESUMED] took 5509ms, replayed 0 events, new seq: 6633
+[2025-09-09 11:49:28.559] [6402] (instrumented_task.cpp:52): polling 1 metrics
+[2025-09-09 12:04:28.561] [6402] (instrumented_task.cpp:52): polling 1 metrics
+[2025-09-09 12:19:28.563] [6402] (instrumented_task.cpp:52): polling 1 metrics
+[2025-09-09 12:34:28.564] [6402] (instrumented_task.cpp:52): polling 1 metrics
+[2025-09-09 12:49:11.346] [6366] JS console: [GatewaySocket] [CONNECT] wss://gateway-us-east1-c.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-09-09 12:49:11.864] [6366] JS console: [GatewaySocket] [CONNECTED] wss://gateway-us-east1-c.discord.gg/?encoding=etf&v=9&compress=zstd-stream in 518 ms
+[2025-09-09 12:49:11.866] [6366] JS console: [GatewaySocket] [RESUME] resuming session 9d2c08a3682a594afa1577686eb441ab, seq: 8165
+[2025-09-09 12:49:12.232] [6366] JS console: [GatewaySocket] [RESUMED] took 886ms, replayed 0 events, new seq: 8166
+[2025-09-09 12:49:28.565] [6402] (instrumented_task.cpp:52): polling 1 metrics
+[2025-09-09 13:02:52.262] [6366] JS console: [GatewaySocket] [ACK TIMEOUT] reconnecting in 1.55 seconds.
+[2025-09-09 13:02:53.811] [6366] JS console: [GatewaySocket] [CONNECT] wss://gateway-us-east1-c.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-09-09 13:02:54.259] [6366] JS console: [GatewaySocket] [CONNECTED] wss://gateway-us-east1-c.discord.gg/?encoding=etf&v=9&compress=zstd-stream in 447 ms
+[2025-09-09 13:02:54.259] [6366] JS console: [GatewaySocket] [RESUME] resuming session 9d2c08a3682a594afa1577686eb441ab, seq: 8703
+[2025-09-09 13:02:54.826] [6366] JS console: [GatewaySocket] [RESUMED] took 1014ms, replayed 44 events, new seq: 8748
+[2025-09-09 13:04:28.566] [6402] (instrumented_task.cpp:52): polling 1 metrics
