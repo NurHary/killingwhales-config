@@ -11,22 +11,89 @@
     "width": 30
   },
   "display": {
-    "separator": " >  "
+    "separator": " "
   },
   "modules": [
-    "title",
-    "separator",
-    "os",
-    "wm",
-    "break",
-    "uptime",
-    "de",
-    "wmtheme",
-    "terminal",
-    "memory",
-    "battery",
-    "poweradapter",
-    "break",
-    "colors"
+      "break",
+      "break",
+      {
+          "type": "title",
+          "color": {
+              "user": "\u001b[32m",  // = color2
+              "at": "\u001b[32m",
+              "host": "\u001b[32m"
+          }
+      },
+      "break",
+      {
+          "type": "os",
+          "key": " ",
+          "keyColor": "\u001b[32m",  // = color4
+      },
+      {
+          "type": "wm",
+          "key": " ",
+          "keyColor": "\u001b[32m",
+      },
+      "break",
+      {
+          "type": "shell",
+          "key": " ",
+          "keyColor": "\u001b[32m",
+      },
+      {
+          "type": "terminal",
+          "key": " ",
+          "keyColor": "\u001b[32m",
+      },
+      {
+          "type": "memory",
+          "key": "󰚈 ",
+          "keyColor": "\u001b[32m",
+      },
+      {
+          "type": "battery",
+          "key": " ",
+          "keyColor": "\u001b[32m",
+      },
+      {
+          "type": "uptime",
+          "key": "󱫡 ",
+          "keyColor": "\u001b[32m",
+      },
+      {
+          "type": "datetime",
+          "format": "{1}-{3}-{11}",
+          "key": " ",
+          "keyColor": "\u001b[32m",
+      },
+      "break",
+      {
+          "type": "custom",
+          "format": "\u001b[90m󱎖  \u001b[31m󱎖  \u001b[32m󱎖  \u001b[33m󱎖  \u001b[34m󱎖  \u001b[35m󱎖  \u001b[36m󱎖  \u001b[37m󱎖 "
+      },
+      "break",
+      "break",
+
   ]
 }
+
+
+
+//   "modules": [
+//     "title",
+//     "separator",
+//     "os",
+//     "wm",
+//     "break",
+//     "uptime",
+//     "de",
+//     "wmtheme",
+//     "terminal",
+//     "memory",
+//     "battery",
+//     "poweradapter",
+//     "break",
+//     "colors"
+//   ]
+// }
