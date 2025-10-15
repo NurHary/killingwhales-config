@@ -1,24 +1,31 @@
 {
   "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/master/doc/json_schema.json",
+  "logo": {
+    "type": "kitty-direct",
+    "padding":{
+      "top": 1,
+      "left": 1
+    },
+    "source": "/home/killingwhales/.config/fastfetch/logos.png",
+  "height": 15,
+    "width": 30
+  },
+  "display": {
+    "separator": " >  "
+  },
   "modules": [
     "title",
     "separator",
     "os",
-    "cpu",
-    "memory",
-    "battery",
-    "separator",
-    "host",
-    "kernel",
-    "shell",
-    "terminal",
-    "separator",
+    "wm",
+    "break",
     "uptime",
     "de",
-    "wm",
     "wmtheme",
+    "terminal",
+    "memory",
+    "battery",
     "poweradapter",
-    "locale",
     "break",
     "colors"
   ]
