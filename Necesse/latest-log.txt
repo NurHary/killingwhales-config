@@ -1,0 +1,44 @@
+[2025-11-01 14:25:41] SYSTEM INFO:
+[2025-11-01 14:25:41] 	Username: killingwhales
+[2025-11-01 14:25:41] 	OS: GNU/Linux Steam Runtime 2 (soldier) build 6.17.6-arch1-1
+[2025-11-01 14:25:41] 	CPU: 13th Gen Intel(R) Core(TM) i7-13620H
+[2025-11-01 14:25:41] 	OS arch: amd64
+[2025-11-01 14:25:41] 	Memory total: 16.45 GB
+[2025-11-01 14:25:41] 	Memory max: 4.29 GB
+[2025-11-01 14:25:41] 	Java path: /home/killingwhales/.local/share/Steam/steamapps/common/Necesse/jre
+[2025-11-01 14:25:41] 	Java version: 17.0.14
+[2025-11-01 14:25:41] 	JVM arguments:
+[2025-11-01 14:25:41] 		-XX:+UnlockExperimentalVMOptions
+[2025-11-01 14:25:41] 		-XX:+UseG1GC
+[2025-11-01 14:25:41] 		-XX:G1NewSizePercent=20
+[2025-11-01 14:25:41] 		-XX:G1ReservePercent=20
+[2025-11-01 14:25:41] 		-XX:MaxGCPauseMillis=50
+[2025-11-01 14:25:41] 		-XX:G1HeapRegionSize=32M
+[2025-11-01 14:25:41] 		-Xms512m
+[2025-11-01 14:25:41] 		-Xmx4G
+[2025-11-01 14:25:41] 	LWJGL version: 3.3.2+13
+[2025-11-01 14:25:41] 	Root path: /home/killingwhales/.local/share/Steam/steamapps/common/Necesse/
+[2025-11-01 14:25:41] 	AppData path: /home/killingwhales/.config/Necesse/
+[2025-11-01 14:25:41] 	Working dir: /home/killingwhales/.local/share/Steam/steamapps/common/Necesse
+[2025-11-01 14:25:41] 	Natives path: INTERNAL
+[2025-11-01 14:25:41] GRAPHICS INFO:
+[2025-11-01 14:25:41] 	Graphics card: Intel, Mesa Intel(R) Graphics (RPL-P)
+[2025-11-01 14:25:41] 	OpenGL version: 4.6 (Compatibility Profile) Mesa 25.2.6-arch1.1
+[2025-11-01 14:25:42] Started client on version 1.0.2 build 20625580 with authentication 76561199520731648.
+[2025-11-01 14:25:42] Detected Intel Graphics. Limited max vertex calls per draw call to try and prevent driver crash
+[2025-11-01 14:25:48] Happy Halloween!
+[2025-11-01 14:25:49] Starting to load level presets region surface (0x0)
+[2025-11-01 14:25:53] Creating save with name: Ouija.zip
+[2025-11-01 14:25:53] Could not find world file, creating new one: Ouija.zip
+[2025-11-01 14:25:53] Could not find Level: Ouija/levels/surface.dat file for Ouija.zip
+[2025-11-01 14:25:53] Started singleplayer server on world Ouija.zip, game version 1.0.2
+[2025-11-01 14:25:53] Found 0 saved players.
+[2025-11-01 14:25:53] Finding spawn position...
+[2025-11-01 14:25:53] This may take a moment
+[2025-11-01 14:25:53] Starting to load level presets region surface (0x0)
+[2025-11-01 14:25:53] Starting to load level presets region surface (0x64)
+[2025-11-01 14:25:53] Starting to load level presets region surface (64x0)
+[2025-11-01 14:25:53] Starting to load level presets region surface (64x64)
+[2025-11-01 14:25:53] Found spawn at region: 56x58
+[2025-11-01 14:26:02] Client "76561199520731648" connected on slot 1/1.
+[2025-11-01 14:26:02] Creating new player: 76561199520731648

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorToolChains>
-<!-- Written by QtCreator 17.0.1, 2025-09-18T12:04:49. -->
+<!-- Written by QtCreator 17.0.1, 2025-09-19T19:05:33. -->
 <qtcreator>
  <data>
   <variable>ToolChain.0</variable>
@@ -44,6 +44,93 @@
    <value type="QString" key="ProjectExplorer.ToolChain.DetectionSource"></value>
    <value type="QString" key="ProjectExplorer.ToolChain.DisplayName">Clang (C, x86 64bit at /usr/bin/clang)</value>
    <value type="QString" key="ProjectExplorer.ToolChain.Id">ProjectExplorer.ToolChain.Clang:{4782a081-614a-4f61-b07b-d0f3e8b1710e}</value>
+   <value type="int" key="ProjectExplorer.ToolChain.Language">1</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.LanguageV2">C</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>ToolChain.10</variable>
+  <valuemap type="QVariantMap">
+   <value type="QString" key="ExplicitCodeModelTargetTriple"></value>
+   <value type="QByteArray" key="ProjectExplorer.ClangToolChain.ParentToolChainId"></value>
+   <value type="int" key="ProjectExplorer.ClangToolChain.Priority">10</value>
+   <value type="QString" key="ProjectExplorer.GccToolChain.OriginalTargetTriple">aarch64-linux-android</value>
+   <value type="QString" key="ProjectExplorer.GccToolChain.Path">/home/killingwhales/Killing-Whales/development/cmdline-tools/ndk/27.2.12479018/toolchains/llvm/prebuilt/linux-x86_64/bin/clang</value>
+   <valuelist type="QVariantList" key="ProjectExplorer.GccToolChain.PlatformCodeGenFlags">
+    <value type="QString">-target</value>
+    <value type="QString">aarch64-linux-android</value>
+   </valuelist>
+   <valuelist type="QVariantList" key="ProjectExplorer.GccToolChain.PlatformLinkerFlags">
+    <value type="QString">-target</value>
+    <value type="QString">aarch64-linux-android</value>
+   </valuelist>
+   <valuelist type="QVariantList" key="ProjectExplorer.GccToolChain.SupportedAbis">
+    <value type="QString">arm-linux-android-elf-64bit</value>
+   </valuelist>
+   <value type="QString" key="ProjectExplorer.GccToolChain.TargetAbi">arm-linux-android-elf-64bit</value>
+   <value type="bool" key="ProjectExplorer.ToolChain.Autodetect">true</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.BundleId">{353ba05d-25cf-4dac-aba0-34bc6f325931}</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.DetectionSource"></value>
+   <value type="QString" key="ProjectExplorer.ToolChain.DisplayName">Android Clang (C, aarch64, NDK 27.2.12479018)</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.Id">Qt4ProjectManager.ToolChain.Android:{c61ae1ae-44d1-4447-b1b6-0a325716d799}</value>
+   <value type="int" key="ProjectExplorer.ToolChain.Language">1</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.LanguageV2">C</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>ToolChain.11</variable>
+  <valuemap type="QVariantMap">
+   <value type="QString" key="ExplicitCodeModelTargetTriple"></value>
+   <value type="QByteArray" key="ProjectExplorer.ClangToolChain.ParentToolChainId"></value>
+   <value type="int" key="ProjectExplorer.ClangToolChain.Priority">10</value>
+   <value type="QString" key="ProjectExplorer.GccToolChain.OriginalTargetTriple">x86_64-linux-android</value>
+   <value type="QString" key="ProjectExplorer.GccToolChain.Path">/home/killingwhales/Killing-Whales/development/cmdline-tools/ndk/27.2.12479018/toolchains/llvm/prebuilt/linux-x86_64/bin/clang</value>
+   <valuelist type="QVariantList" key="ProjectExplorer.GccToolChain.PlatformCodeGenFlags">
+    <value type="QString">-target</value>
+    <value type="QString">x86_64-linux-android</value>
+   </valuelist>
+   <valuelist type="QVariantList" key="ProjectExplorer.GccToolChain.PlatformLinkerFlags">
+    <value type="QString">-target</value>
+    <value type="QString">x86_64-linux-android</value>
+   </valuelist>
+   <valuelist type="QVariantList" key="ProjectExplorer.GccToolChain.SupportedAbis">
+    <value type="QString">x86-linux-android-elf-64bit</value>
+   </valuelist>
+   <value type="QString" key="ProjectExplorer.GccToolChain.TargetAbi">x86-linux-android-elf-64bit</value>
+   <value type="bool" key="ProjectExplorer.ToolChain.Autodetect">true</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.BundleId">{e2dad0ce-a114-4fee-9a2f-96fd41857a53}</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.DetectionSource"></value>
+   <value type="QString" key="ProjectExplorer.ToolChain.DisplayName">Android Clang (C, x86_64, NDK 27.2.12479018)</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.Id">Qt4ProjectManager.ToolChain.Android:{930be832-114c-49a2-a1ed-e9f0e771c759}</value>
+   <value type="int" key="ProjectExplorer.ToolChain.Language">1</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.LanguageV2">C</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>ToolChain.12</variable>
+  <valuemap type="QVariantMap">
+   <value type="QString" key="ExplicitCodeModelTargetTriple"></value>
+   <value type="QByteArray" key="ProjectExplorer.ClangToolChain.ParentToolChainId"></value>
+   <value type="int" key="ProjectExplorer.ClangToolChain.Priority">10</value>
+   <value type="QString" key="ProjectExplorer.GccToolChain.OriginalTargetTriple">i686-linux-android</value>
+   <value type="QString" key="ProjectExplorer.GccToolChain.Path">/home/killingwhales/Killing-Whales/development/cmdline-tools/ndk/27.2.12479018/toolchains/llvm/prebuilt/linux-x86_64/bin/clang</value>
+   <valuelist type="QVariantList" key="ProjectExplorer.GccToolChain.PlatformCodeGenFlags">
+    <value type="QString">-target</value>
+    <value type="QString">i686-linux-android</value>
+   </valuelist>
+   <valuelist type="QVariantList" key="ProjectExplorer.GccToolChain.PlatformLinkerFlags">
+    <value type="QString">-target</value>
+    <value type="QString">i686-linux-android</value>
+   </valuelist>
+   <valuelist type="QVariantList" key="ProjectExplorer.GccToolChain.SupportedAbis">
+    <value type="QString">x86-linux-android-elf-32bit</value>
+   </valuelist>
+   <value type="QString" key="ProjectExplorer.GccToolChain.TargetAbi">x86-linux-android-elf-32bit</value>
+   <value type="bool" key="ProjectExplorer.ToolChain.Autodetect">true</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.BundleId">{565856d7-0b30-44f4-97ff-998a179175e2}</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.DetectionSource"></value>
+   <value type="QString" key="ProjectExplorer.ToolChain.DisplayName">Android Clang (C, i686, NDK 27.2.12479018)</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.Id">Qt4ProjectManager.ToolChain.Android:{d16a246d-26a9-4c36-a769-fe3c0396408e}</value>
    <value type="int" key="ProjectExplorer.ToolChain.Language">1</value>
    <value type="QString" key="ProjectExplorer.ToolChain.LanguageV2">C</value>
   </valuemap>
@@ -114,8 +201,153 @@
   </valuemap>
  </data>
  <data>
+  <variable>ToolChain.5</variable>
+  <valuemap type="QVariantMap">
+   <value type="QString" key="ExplicitCodeModelTargetTriple"></value>
+   <value type="QByteArray" key="ProjectExplorer.ClangToolChain.ParentToolChainId"></value>
+   <value type="int" key="ProjectExplorer.ClangToolChain.Priority">10</value>
+   <value type="QString" key="ProjectExplorer.GccToolChain.OriginalTargetTriple">arm-linux-androideabi</value>
+   <value type="QString" key="ProjectExplorer.GccToolChain.Path">/home/killingwhales/Killing-Whales/development/cmdline-tools/ndk/27.2.12479018/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++</value>
+   <valuelist type="QVariantList" key="ProjectExplorer.GccToolChain.PlatformCodeGenFlags">
+    <value type="QString">-target</value>
+    <value type="QString">arm-linux-androideabi</value>
+   </valuelist>
+   <valuelist type="QVariantList" key="ProjectExplorer.GccToolChain.PlatformLinkerFlags">
+    <value type="QString">-target</value>
+    <value type="QString">arm-linux-androideabi</value>
+   </valuelist>
+   <valuelist type="QVariantList" key="ProjectExplorer.GccToolChain.SupportedAbis">
+    <value type="QString">arm-linux-android-elf-32bit</value>
+   </valuelist>
+   <value type="QString" key="ProjectExplorer.GccToolChain.TargetAbi">arm-linux-android-elf-32bit</value>
+   <value type="bool" key="ProjectExplorer.ToolChain.Autodetect">true</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.BundleId">{ac278635-b558-4468-a600-e3672cb47893}</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.DetectionSource"></value>
+   <value type="QString" key="ProjectExplorer.ToolChain.DisplayName">Android Clang (C++, arm, NDK 27.2.12479018)</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.Id">Qt4ProjectManager.ToolChain.Android:{575863c4-2fc0-42e7-b6f7-f449b5a5e67c}</value>
+   <value type="int" key="ProjectExplorer.ToolChain.Language">2</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.LanguageV2">Cxx</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>ToolChain.6</variable>
+  <valuemap type="QVariantMap">
+   <value type="QString" key="ExplicitCodeModelTargetTriple"></value>
+   <value type="QByteArray" key="ProjectExplorer.ClangToolChain.ParentToolChainId"></value>
+   <value type="int" key="ProjectExplorer.ClangToolChain.Priority">10</value>
+   <value type="QString" key="ProjectExplorer.GccToolChain.OriginalTargetTriple">aarch64-linux-android</value>
+   <value type="QString" key="ProjectExplorer.GccToolChain.Path">/home/killingwhales/Killing-Whales/development/cmdline-tools/ndk/27.2.12479018/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++</value>
+   <valuelist type="QVariantList" key="ProjectExplorer.GccToolChain.PlatformCodeGenFlags">
+    <value type="QString">-target</value>
+    <value type="QString">aarch64-linux-android</value>
+   </valuelist>
+   <valuelist type="QVariantList" key="ProjectExplorer.GccToolChain.PlatformLinkerFlags">
+    <value type="QString">-target</value>
+    <value type="QString">aarch64-linux-android</value>
+   </valuelist>
+   <valuelist type="QVariantList" key="ProjectExplorer.GccToolChain.SupportedAbis">
+    <value type="QString">arm-linux-android-elf-64bit</value>
+   </valuelist>
+   <value type="QString" key="ProjectExplorer.GccToolChain.TargetAbi">arm-linux-android-elf-64bit</value>
+   <value type="bool" key="ProjectExplorer.ToolChain.Autodetect">true</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.BundleId">{353ba05d-25cf-4dac-aba0-34bc6f325931}</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.DetectionSource"></value>
+   <value type="QString" key="ProjectExplorer.ToolChain.DisplayName">Android Clang (C++, aarch64, NDK 27.2.12479018)</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.Id">Qt4ProjectManager.ToolChain.Android:{db232e72-c85d-460b-8a07-f321d6a8eb4d}</value>
+   <value type="int" key="ProjectExplorer.ToolChain.Language">2</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.LanguageV2">Cxx</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>ToolChain.7</variable>
+  <valuemap type="QVariantMap">
+   <value type="QString" key="ExplicitCodeModelTargetTriple"></value>
+   <value type="QByteArray" key="ProjectExplorer.ClangToolChain.ParentToolChainId"></value>
+   <value type="int" key="ProjectExplorer.ClangToolChain.Priority">10</value>
+   <value type="QString" key="ProjectExplorer.GccToolChain.OriginalTargetTriple">x86_64-linux-android</value>
+   <value type="QString" key="ProjectExplorer.GccToolChain.Path">/home/killingwhales/Killing-Whales/development/cmdline-tools/ndk/27.2.12479018/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++</value>
+   <valuelist type="QVariantList" key="ProjectExplorer.GccToolChain.PlatformCodeGenFlags">
+    <value type="QString">-target</value>
+    <value type="QString">x86_64-linux-android</value>
+   </valuelist>
+   <valuelist type="QVariantList" key="ProjectExplorer.GccToolChain.PlatformLinkerFlags">
+    <value type="QString">-target</value>
+    <value type="QString">x86_64-linux-android</value>
+   </valuelist>
+   <valuelist type="QVariantList" key="ProjectExplorer.GccToolChain.SupportedAbis">
+    <value type="QString">x86-linux-android-elf-64bit</value>
+   </valuelist>
+   <value type="QString" key="ProjectExplorer.GccToolChain.TargetAbi">x86-linux-android-elf-64bit</value>
+   <value type="bool" key="ProjectExplorer.ToolChain.Autodetect">true</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.BundleId">{e2dad0ce-a114-4fee-9a2f-96fd41857a53}</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.DetectionSource"></value>
+   <value type="QString" key="ProjectExplorer.ToolChain.DisplayName">Android Clang (C++, x86_64, NDK 27.2.12479018)</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.Id">Qt4ProjectManager.ToolChain.Android:{4389e065-a0b8-4fb2-9b1b-57dd4d59bb5b}</value>
+   <value type="int" key="ProjectExplorer.ToolChain.Language">2</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.LanguageV2">Cxx</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>ToolChain.8</variable>
+  <valuemap type="QVariantMap">
+   <value type="QString" key="ExplicitCodeModelTargetTriple"></value>
+   <value type="QByteArray" key="ProjectExplorer.ClangToolChain.ParentToolChainId"></value>
+   <value type="int" key="ProjectExplorer.ClangToolChain.Priority">10</value>
+   <value type="QString" key="ProjectExplorer.GccToolChain.OriginalTargetTriple">i686-linux-android</value>
+   <value type="QString" key="ProjectExplorer.GccToolChain.Path">/home/killingwhales/Killing-Whales/development/cmdline-tools/ndk/27.2.12479018/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++</value>
+   <valuelist type="QVariantList" key="ProjectExplorer.GccToolChain.PlatformCodeGenFlags">
+    <value type="QString">-target</value>
+    <value type="QString">i686-linux-android</value>
+   </valuelist>
+   <valuelist type="QVariantList" key="ProjectExplorer.GccToolChain.PlatformLinkerFlags">
+    <value type="QString">-target</value>
+    <value type="QString">i686-linux-android</value>
+   </valuelist>
+   <valuelist type="QVariantList" key="ProjectExplorer.GccToolChain.SupportedAbis">
+    <value type="QString">x86-linux-android-elf-32bit</value>
+   </valuelist>
+   <value type="QString" key="ProjectExplorer.GccToolChain.TargetAbi">x86-linux-android-elf-32bit</value>
+   <value type="bool" key="ProjectExplorer.ToolChain.Autodetect">true</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.BundleId">{565856d7-0b30-44f4-97ff-998a179175e2}</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.DetectionSource"></value>
+   <value type="QString" key="ProjectExplorer.ToolChain.DisplayName">Android Clang (C++, i686, NDK 27.2.12479018)</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.Id">Qt4ProjectManager.ToolChain.Android:{30a36a7a-7bba-4000-b27d-eaa89ff29c3f}</value>
+   <value type="int" key="ProjectExplorer.ToolChain.Language">2</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.LanguageV2">Cxx</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>ToolChain.9</variable>
+  <valuemap type="QVariantMap">
+   <value type="QString" key="ExplicitCodeModelTargetTriple"></value>
+   <value type="QByteArray" key="ProjectExplorer.ClangToolChain.ParentToolChainId"></value>
+   <value type="int" key="ProjectExplorer.ClangToolChain.Priority">10</value>
+   <value type="QString" key="ProjectExplorer.GccToolChain.OriginalTargetTriple">arm-linux-androideabi</value>
+   <value type="QString" key="ProjectExplorer.GccToolChain.Path">/home/killingwhales/Killing-Whales/development/cmdline-tools/ndk/27.2.12479018/toolchains/llvm/prebuilt/linux-x86_64/bin/clang</value>
+   <valuelist type="QVariantList" key="ProjectExplorer.GccToolChain.PlatformCodeGenFlags">
+    <value type="QString">-target</value>
+    <value type="QString">arm-linux-androideabi</value>
+   </valuelist>
+   <valuelist type="QVariantList" key="ProjectExplorer.GccToolChain.PlatformLinkerFlags">
+    <value type="QString">-target</value>
+    <value type="QString">arm-linux-androideabi</value>
+   </valuelist>
+   <valuelist type="QVariantList" key="ProjectExplorer.GccToolChain.SupportedAbis">
+    <value type="QString">arm-linux-android-elf-32bit</value>
+   </valuelist>
+   <value type="QString" key="ProjectExplorer.GccToolChain.TargetAbi">arm-linux-android-elf-32bit</value>
+   <value type="bool" key="ProjectExplorer.ToolChain.Autodetect">true</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.BundleId">{ac278635-b558-4468-a600-e3672cb47893}</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.DetectionSource"></value>
+   <value type="QString" key="ProjectExplorer.ToolChain.DisplayName">Android Clang (C, arm, NDK 27.2.12479018)</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.Id">Qt4ProjectManager.ToolChain.Android:{d8e33198-3c27-4144-96e6-84c9b1bbf3f6}</value>
+   <value type="int" key="ProjectExplorer.ToolChain.Language">1</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.LanguageV2">C</value>
+  </valuemap>
+ </data>
+ <data>
   <variable>ToolChain.Count</variable>
-  <value type="int">5</value>
+  <value type="int">13</value>
  </data>
  <data>
   <variable>Version</variable>

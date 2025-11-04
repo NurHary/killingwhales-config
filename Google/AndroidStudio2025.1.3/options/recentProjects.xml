@@ -1,0 +1,26 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/AndroidStudioProjects/OcrDokumen">
+          <value>
+            <RecentProjectMetaInfo frameTitle="OcrDokumen – MainActivity.kt [OcrDokumen.app.main]" opened="true" projectWorkspaceId="32wYTuiAuXuDUHfZMsCA5Uh6oy0">
+              <option name="activationTimestamp" value="1758590348133" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-251.26094.121.2513.14007798" />
+              <option name="buildTimestamp" value="1756360680000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="12" y="42" width="1896" height="1026" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1758376608713" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/AndroidStudioProjects/OcrDokumen" />
+    <option name="lastProjectLocation" value="$USER_HOME$/AndroidStudioProjects" />
+  </component>
+</application>

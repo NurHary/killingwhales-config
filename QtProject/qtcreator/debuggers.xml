@@ -1,10 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorDebuggers>
-<!-- Written by QtCreator 17.0.1, 2025-09-18T12:04:41. -->
+<!-- Written by QtCreator 17.0.1, 2025-09-19T18:57:13. -->
 <qtcreator>
  <data>
+  <variable>DebuggerItem.0</variable>
+  <valuemap type="QVariantMap">
+   <valuelist type="QVariantList" key="Abis">
+    <value type="QString">x86-linux-generic-elf-64bit</value>
+   </valuelist>
+   <value type="bool" key="AutoDetected">true</value>
+   <value type="QString" key="Binary">/home/killingwhales/Killing-Whales/development/cmdline-tools/ndk/27.2.12479018/toolchains/llvm/prebuilt/linux-x86_64/bin/lldb</value>
+   <value type="QString" key="DetectionSource"></value>
+   <value type="QString" key="DisplayName">Android Debugger (Multi-Abi, NDK 27.2.12479018) LLDB</value>
+   <value type="int" key="EngineType">256</value>
+   <value type="QString" key="Id">{fb5e4ae1-bf2e-4bee-88b2-1b834ab01c6c}</value>
+   <value type="QDateTime" key="LastModified">2025-09-19T17:28:21.949</value>
+   <value type="QString" key="Version">18.0.3</value>
+   <value type="QString" key="WorkingDirectory"></value>
+  </valuemap>
+ </data>
+ <data>
   <variable>DebuggerItem.Count</variable>
-  <value type="int">0</value>
+  <value type="int">1</value>
  </data>
  <data>
   <variable>Version</variable>

@@ -1,0 +1,11 @@
+{
+    "adminList": [
+        {
+            "index": 1,
+            "privileges": 2,
+            "name": "Kak4",
+            "steamId": 76561199520731648,
+            "crossPlatformId": 16777343
+        }
+    ]
+}
