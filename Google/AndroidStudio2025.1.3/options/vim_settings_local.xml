@@ -2,167 +2,238 @@
   <component name="VimHistorySettings">
     <history>
       <history-cmd>
-        <entry encoding="base64">Vw==</entry>
-        <entry encoding="base64">d2E=</entry>
-        <entry encoding="base64" />
-        <entry encoding="base64">dw==</entry>
-        <entry encoding="base64">cQ==</entry>
         <entry encoding="base64">cWE=</entry>
+        <entry encoding="base64">RXhwbG9yZQ==</entry>
+        <entry encoding="base64">O3dh</entry>
+        <entry encoding="base64">d0E=</entry>
+        <entry encoding="base64">d2Fh</entry>
+        <entry encoding="base64">Ng==</entry>
+        <entry encoding="base64">d1w=</entry>
+        <entry encoding="base64">Vw==</entry>
+        <entry encoding="base64" />
+        <entry encoding="base64">cQ==</entry>
+        <entry encoding="base64">dw==</entry>
+        <entry encoding="base64">d2E=</entry>
       </history-cmd>
       <history-search>
         <entry encoding="base64">aW1wbGVtZW50YXRpb24=</entry>
         <entry encoding="base64">Pg==</entry>
         <entry encoding="base64">Y29sb3JzID0=</entry>
         <entry encoding="base64">QWxlcnREaWFsb2c=</entry>
+        <entry encoding="base64">XDxjb25maXJtUGhvdG9cPg==</entry>
+        <entry encoding="base64">XDxjdXJyZW50Qmx1ZXRvb3RoQ29ubmVjdGlvblw+</entry>
+        <entry encoding="base64">XDxzbmFja2Jhckhvc3RTdGF0ZVw+</entry>
+        <entry encoding="base64">XDxFbmFibGVCbHVldG9vdGhcPg==</entry>
+        <entry encoding="base64">SW50ZW50</entry>
+        <entry encoding="base64">c3RhcnQ=</entry>
+        <entry encoding="base64">c3Rhcg==</entry>
+        <entry encoding="base64">VE9ETw==</entry>
+        <entry encoding="base64">YnV0dG9u</entry>
+        <entry encoding="base64">QnV0dG9u</entry>
+        <entry encoding="base64">Y2FyZA==</entry>
+        <entry encoding="base64">Q2FyZA==</entry>
+        <entry encoding="base64">Ymx1ZXRvb3Ro</entry>
+        <entry encoding="base64">Q29sb3I=</entry>
+        <entry encoding="base64">XDxSRVFVRVNUX0VOQUJMRV9CTFVFVE9PVEhcPg==</entry>
+        <entry encoding="base64">b2todHRw</entry>
+        <entry encoding="base64" />
+        <entry encoding="base64">XDxPa0h0dHBDbGllbnRcPg==</entry>
+        <entry encoding="base64">cGVybWlzc2lvbg==</entry>
       </history-search>
     </history>
   </component>
   <component name="VimJumpsSettings">
     <project id="OcrDokumen-6f2d5675">
-      <jump line="55" column="51" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/build.gradle.kts" protocol="file" />
-      <jump line="52" column="55" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/build.gradle.kts" protocol="file" />
-      <jump line="31" column="14" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="47" column="54" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="93" column="46" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="95" column="20" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="2" column="7" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="46" column="56" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="19" column="50" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="45" column="35" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="12" column="49" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="7" column="44" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="37" column="35" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="17" column="39" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="15" column="47" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="13" column="39" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="71" column="95" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="59" column="24" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="52" column="68" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="63" column="24" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="25" column="52" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="68" column="39" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="26" column="0" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="57" column="42" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="24" column="39" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="10" column="52" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="83" column="75" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="81" column="28" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="84" column="0" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="76" column="33" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="51" column="32" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="61" column="57" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="124" column="21" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="125" column="0" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="118" column="0" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="130" column="4" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="39" column="34" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="132" column="22" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="146" column="25" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="136" column="28" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="55" column="46" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="49" column="0" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="141" column="18" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="140" column="22" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="90" column="36" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="60" column="20" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="115" column="20" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="62" column="22" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="120" column="60" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="123" column="60" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="119" column="48" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="129" column="32" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="127" column="32" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="110" column="25" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="108" column="61" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="111" column="66" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="112" column="48" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="109" column="56" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="117" column="43" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="116" column="0" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="48" column="5" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="53" column="45" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="143" column="10" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="145" column="32" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="155" column="17" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="173" column="8" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="171" column="0" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="148" column="2" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="149" column="54" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="150" column="13" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="157" column="17" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="158" column="24" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="151" column="13" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="219" column="36" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="12" column="40" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="228" column="47" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="230" column="43" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="224" column="47" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="221" column="30" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="225" column="22" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="33" column="40" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="336" column="32" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="333" column="123" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="321" column="80" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="48" column="36" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="78" column="0" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="322" column="77" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="330" column="12" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="2" column="0" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="338" column="16" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="382" column="45" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="370" column="61" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="374" column="26" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="164" column="105" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="386" column="30" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="387" column="20" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="388" column="14" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
       <jump line="159" column="0" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="156" column="16" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="154" column="33" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="172" column="12" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="178" column="14" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="182" column="8" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="163" column="46" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="183" column="12" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="164" column="48" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="162" column="8" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="153" column="54" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="185" column="12" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="160" column="30" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="184" column="18" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="167" column="16" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="188" column="16" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="166" column="19" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="165" column="19" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="189" column="12" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="168" column="54" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="170" column="65" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="181" column="22" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="169" column="56" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="175" column="56" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="64" column="61" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="70" column="24" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
-      <jump line="174" column="0" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="161" column="51" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="380" column="21" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="383" column="68" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="342" column="160" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="343" column="66" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="335" column="137" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="379" column="12" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="392" column="4" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="210" column="50" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="213" column="53" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="212" column="75" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="214" column="61" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="239" column="54" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="238" column="33" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="312" column="42" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="85" column="64" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="242" column="20" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="192" column="50" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="241" column="46" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="349" column="44" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="385" column="20" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="398" column="62" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="344" column="64" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="253" column="48" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="162" column="68" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="176" column="95" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="98" column="19" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="87" column="10" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="163" column="52" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="178" column="84" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="177" column="48" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="91" column="0" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="90" column="21" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="244" column="25" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="157" column="51" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="404" column="25" filename="$USER_HOME$/Android/Sdk/sources/android-36/android/content/BroadcastReceiver.java" protocol="file" />
+      <jump line="243" column="33" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="245" column="42" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="189" column="19" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="201" column="0" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="150" column="0" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="2" column="12" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/build.gradle.kts" protocol="file" />
+      <jump line="49" column="34" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/build.gradle.kts" protocol="file" />
+      <jump line="19" column="8" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/AndroidManifest.xml" protocol="file" />
+      <jump line="9" column="75" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/AndroidManifest.xml" protocol="file" />
+      <jump line="191" column="0" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="155" column="43" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="249" column="46" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="320" column="25" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="389" column="8" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="395" column="21" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="393" column="1" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="272" column="27" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="278" column="68" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="76" column="7" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="75" column="7" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="84" column="7" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="83" column="7" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="80" column="25" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="323" column="23" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="583" column="35" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="577" column="58" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="578" column="63" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="574" column="29" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="573" column="50" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="557" column="20" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="59" column="0" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="125" column="39" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="113" column="43" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="148" column="28" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="165" column="28" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="276" column="15" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" protocol="file" />
+      <jump line="0" column="75" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/build.gradle.kts" protocol="file" />
+      <jump line="6" column="8" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/build.gradle.kts" protocol="file" />
+      <jump line="69" column="4" filename="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/build.gradle.kts" protocol="file" />
     </project>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <localmarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/ui/theme/Type.kt" timestamp="1758533636306">
-        <mark key="&quot;" line="12" column="39" />
+      <file name="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/res/layout/activity_main.xml" timestamp="1765374358996">
+        <mark key="&quot;" line="7" column="34" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/ui/theme/Theme.kt" timestamp="1758533636303">
-        <mark key="&quot;" line="44" column="13" />
-        <mark key="[" line="45" column="12" />
-        <mark key="]" line="45" column="12" />
-        <mark key="." line="45" column="12" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1758590172582">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/build.gradle.kts" timestamp="1758533635189">
-        <mark key="&quot;" line="52" column="55" />
+      <file name="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/build.gradle.kts" timestamp="1765374336951">
+        <mark key="&quot;" line="49" column="34" />
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="55" column="51" />
-        <mark key="]" line="55" column="51" />
-        <mark key="." line="55" column="52" />
-        <mark key="^" line="56" column="4" />
+        <mark key="[" line="42" column="14" />
+        <mark key="]" line="43" column="4" />
+        <mark key="^" line="43" column="4" />
+        <mark key="." line="43" column="3" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/OcrDokumen/build.gradle.kts" timestamp="1758533636302">
+      <file name="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/res/drawable/ic_launcher_background.xml" timestamp="1765374325542">
         <mark key="&quot;" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/ui/theme/Color.kt" timestamp="1758533636309">
-        <mark key="&quot;" line="10" column="30" />
+      <file name="$USER_HOME$/Android/Sdk/sources/android-36/android/content/BroadcastReceiver.java" timestamp="1765530828709">
+        <mark key="&quot;" line="404" column="25" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/AndroidManifest.xml" timestamp="1758533634416">
-        <mark key="&quot;" line="25" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/res/xml/data_extraction_rules.xml" timestamp="1765374332467">
+        <mark key="&quot;" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" timestamp="1758533633197">
-        <mark key="&quot;" line="174" column="0" />
-        <mark key="'" line="195" column="12" />
-        <mark key="[" line="170" column="66" />
-        <mark key="]" line="170" column="66" />
-        <mark key="." line="170" column="65" />
-        <mark key="^" line="170" column="66" />
+      <file name="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/res/drawable/ic_launcher_foreground.xml" timestamp="1765374326101">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" timestamp="1765374330198">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/SecondFragment.kt" timestamp="1765374113274">
+        <mark key="&quot;" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/OcrDokumen/build.gradle.kts" timestamp="1765374335674">
+        <mark key="&quot;" line="2" column="12" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt" timestamp="1766372769360">
+        <mark key="&quot;" line="87" column="6" />
+        <mark key="'" line="165" column="28" />
+        <mark key="[" line="276" column="16" />
+        <mark key="]" line="276" column="16" />
+        <mark key="^" line="276" column="16" />
+        <mark key="." line="276" column="15" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/BluetoothActivity2.kt" timestamp="1765373764757">
+        <mark key="&quot;" line="20" column="35" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/res/layout/fragment_second.xml" timestamp="1765374113024">
+        <mark key="&quot;" line="6" column="35" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/FirstFragment.kt" timestamp="1765373946535">
+        <mark key="&quot;" line="13" column="6" />
+        <mark key="[" line="13" column="6" />
+        <mark key="]" line="13" column="6" />
+        <mark key="." line="13" column="6" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/res/navigation/nav_graph.xml" timestamp="1765374113723">
+        <mark key="&quot;" line="21" column="46" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/res/layout/activity_bluetooth2.xml" timestamp="1765373877033">
+        <mark key="&quot;" line="21" column="4" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/OcrDokumen/settings.gradle.kts" timestamp="1765374333262">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/res/layout/fragment_first.xml" timestamp="1765374037654">
+        <mark key="&quot;" line="8" column="4" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/AndroidManifest.xml" timestamp="1765531722190">
+        <mark key="&quot;" line="21" column="0" />
+        <mark key="[" line="10" column="61" />
+        <mark key="]" line="10" column="76" />
+        <mark key="." line="10" column="75" />
+        <mark key="^" line="10" column="76" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/res/xml/backup_rules.xml" timestamp="1765374331397">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity2.kt" timestamp="1765374228179">
+        <mark key="&quot;" line="12" column="39" />
       </file>
     </localmarks>
   </component>
@@ -172,57 +243,57 @@
         <text encoding="base64">ICZBIG1lbmNhcmkgV2lmaSBhCGFsZ2kbOncNJSVyYSVybBs6dw0mKCMbOlcNYmNiY3dCbGUICAgICAgIb2JhIHAIUGFpcmluZxs6dw0oKCglJSUlJSVjaSJQYWkgdWxhCAgICHIgVXBhbAgIbAgIbGFuZxs7dw0oKCYmJihvQnV0dHAIbwgICAgIQnV0dG9uKCkgeyB9JSUlJSUjJSUnCA0mIyUlJSh0ZXgICAhUZXgICAhUZXh0KCkldGV4dD0gIiLvv6Xvv6UgIyUlGzp3DWFSZWZyZXNoGzp3DSYmYSUoIyUlJQ1zaGFwZSA9IBs6dw0oKCYmI2EgUmUICFJlY3RhbmdsZVNoYXBlLA1vbggIb25DbGljayA9IBs6dw1hIHsNGzp3DSgoKCgmJiYmIygoKCgoKCgmJiYbOncNJiYmJkEvLyBSZWZyZXNoIEtvbmVrc2kbOncNJhsoOncNJiYmJigmJiYmJiYmJiYmJiYmJiYoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKChvLy8gLy8gLy8gS2FtZXJhGzp3DRs6dw0bGxs=</text>
       </register>
       <register name="&quot;" type="CHARACTER_WISE">
-        <text encoding="base64">Y3dDZW50ZXI=</text>
+        <text encoding="base64">Ly8=</text>
       </register>
       <register name="-" type="CHARACTER_WISE">
-        <text encoding="base64">Y3dDZW50ZXI=</text>
+        <text encoding="base64">Ly8=</text>
       </register>
       <register name="." type="CHARACTER_WISE">
         <text encoding="base64" />
       </register>
       <register name="/" type="CHARACTER_WISE">
-        <text encoding="base64">QWxlcnREaWFsb2c=</text>
+        <text encoding="base64">cGVybWlzc2lvbg==</text>
       </register>
       <register name="0" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICBjb25maXJtQnV0dG9uID0gVGV4dEJ1dHRvbigKICAgICAgICAgICAgb25DbGljayA9IHsKICAgICAgICAgICAgLy8gU2ltcGFuIEZvdG8KICAgICAgICAgICAgICAgICB9CiAgICAgICAgKSB7CiAgICAgICAgICAgIFRleHQoIlNpbXBhbiBGb3RvIikKCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uQUNDRVNTX0ZJTkVfTE9DQVRJT04iIC8+Cg==</text>
       </register>
       <register name="1" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICAgICAgVGl0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNjb3BlLmxhdW5jaCB7IHNuYWNrYmFySG9zdFN0YXRlLnNob3dTbmFja2JhcigiQmx1ZXRvb3RoIFRpZGFrIERpaXppbmthbiIpIH0K</text>
       </register>
       <register name="2" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICAgICAgQ2FzZU1hcC5UaXRsZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYmx1ZXRvb3RoQWRhcHRlci5zdGFydERpc2NvdmVyeSgpCg==</text>
       </register>
       <register name="3" type="LINE_WISE">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZCh0YWcgPSAiRGV2aWNlIE5hbWUiLCAiZGV2aWNlIG5hbWU6ICVkZXZpY2VOYW1lIikK</text>
       </register>
       <register name="4" type="LINE_WISE">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZChUQUcsICJkZXZpY2VOYW1lIikK</text>
       </register>
       <register name="5" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICBDYXJkIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAoaSBpbiApCg==</text>
       </register>
       <register name="6" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEJ1dHRvbihzaGFwZSA9IFJvdW5kZWRDb3JuZXJTaGFwZSg0LmRwKSwgb25DbGljayA9IHt9KSB7IFRleHQoIlJlZnJlc2giLCBmb250U2l6ZSA9IDEyLnNwKX0K</text>
       </register>
       <register name="7" type="LINE_WISE">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuUgo=</text>
       </register>
       <register name="8" type="LINE_WISE">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gUmVmcmVzaAo=</text>
       </register>
       <register name="9" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEJ1dHRvbihzaGFwZSA9IFJvdW5kZWRDb3JuZXJTaGFwZSg0LmRwKSwgb25DbGljayA9IHt9KSB7IFRleHQoIlJlZnJlc2giLCBmb250U2l6ZSA9IDEyLnNwKX0K</text>
       </register>
       <register name=":" type="CHARACTER_WISE">
-        <text encoding="base64">cWE=</text>
+        <text encoding="base64">d2E=</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">QWxlcnREaWFsb2c=</last-search>
+      <last-search encoding="base64">cGVybWlzc2lvbg==</last-search>
       <last-offset encoding="base64" />
-      <last-pattern encoding="base64">QWxlcnREaWFsb2c=</last-pattern>
+      <last-pattern encoding="base64">cGVybWlzc2lvbg==</last-pattern>
       <last-dir encoding="base64">MQ==</last-dir>
       <show-last encoding="base64">ZmFsc2U=</show-last>
     </search>

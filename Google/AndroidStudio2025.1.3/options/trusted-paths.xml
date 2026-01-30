@@ -3,7 +3,15 @@
     <option name="TRUSTED_PROJECT_PATHS">
       <map>
         <entry key="$USER_HOME$/AndroidStudioProjects/OcrDokumen" value="true" />
+        <entry key="$USER_HOME$/belajar/ocr-dokumen" value="true" />
       </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/belajar" />
+      </list>
     </option>
   </component>
 </application>

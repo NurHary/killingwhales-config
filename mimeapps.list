@@ -1,9 +1,10 @@
 [Added Associations]
-video/mp4=ffplay-2.desktop;ffplay.desktop;vlc-2.desktop;
+video/mp4=ffplay-2.desktop;ffplay.desktop;vlc-2.desktop;mpv.desktop;
 image/svg+xml=org.inkscape.Inkscape.desktop;
-audio/mpeg=ffplay-2.desktop;mpv.desktop;vlc.desktop;
+audio/mpeg=vlc.desktop;ffplay-2.desktop;mpv.desktop;
+audio/mp4=vlc.desktop;
 
 [Default Applications]
-video/mp4=ffplay-2.desktop;
+video/mp4=mpv.desktop
 image/svg+xml=org.inkscape.Inkscape.desktop
 audio/mpeg=mpv.desktop

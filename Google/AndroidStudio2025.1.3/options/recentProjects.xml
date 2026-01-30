@@ -4,17 +4,33 @@
       <map>
         <entry key="$USER_HOME$/AndroidStudioProjects/OcrDokumen">
           <value>
-            <RecentProjectMetaInfo frameTitle="OcrDokumen – MainActivity.kt [OcrDokumen.app.main]" opened="true" projectWorkspaceId="32wYTuiAuXuDUHfZMsCA5Uh6oy0">
-              <option name="activationTimestamp" value="1758590348133" />
+            <RecentProjectMetaInfo frameTitle="OcrDokumen – AndroidManifest.xml [OcrDokumen.app.main]" opened="true" projectWorkspaceId="32wYTuiAuXuDUHfZMsCA5Uh6oy0">
+              <option name="activationTimestamp" value="1766990693860" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="AI-251.26094.121.2513.14007798" />
               <option name="buildTimestamp" value="1756360680000" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="7" />
               </option>
-              <frame x="12" y="42" width="1896" height="1026" />
+              <frame x="15" y="45" width="1890" height="1020" />
               <option name="productionCode" value="AI" />
               <option name="projectOpenTimestamp" value="1758376608713" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/belajar/ocr-dokumen">
+          <value>
+            <RecentProjectMetaInfo frameTitle="ocr-dokumen – MainActivity.kt [OcrDokumen.app.main]" projectWorkspaceId="37C5fokrL7Ab211nbMj6K99BM9Y">
+              <option name="activationTimestamp" value="1766394404646" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-251.26094.121.2513.14007798" />
+              <option name="buildTimestamp" value="1756360680000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="15" y="45" width="1890" height="1020" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1766394318351" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

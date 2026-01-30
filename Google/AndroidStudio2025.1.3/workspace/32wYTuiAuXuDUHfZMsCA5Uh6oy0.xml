@@ -24,14 +24,26 @@
     </expand>
     <select />
   </component>
+  <component name="DesignSurfaceV2">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.76" />
+        <entry key="app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.76" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.34199726402188785" />
+        <entry key="app/src/main/res/layout/fragment_first.xml" value="0.43365253077975374" />
+        <entry key="app/src/main/res/layout/fragment_second.xml" value="0.43365253077975374" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.76" />
+      </map>
+    </option>
+  </component>
   <component name="FileEditorManager">
-    <leaf ideFingerprint="2u1w8k5wwyxer">
-      <file current-in-tab="true">
+    <leaf ideFingerprint="2u1w8k5wwyxer" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/ocrdokumen/MainActivity.kt">
           <provider editor-type-id="android-source-code" selected="true">
-            <state selected-layout="SHOW_EDITOR_AND_PREVIEW">
-              <editor-state relative-caret-position="506">
-                <caret line="71" column="22" selection-start-line="71" selection-start-column="22" selection-end-line="71" selection-end-column="22" />
+            <state selected-layout="SHOW_EDITOR">
+              <editor-state relative-caret-position="228">
+                <caret line="270" column="8" selection-start-line="270" selection-start-column="8" selection-end-line="278" selection-end-column="28" />
               </editor-state>
               <multi-preview-state selected="Compose">
                 <representations>
@@ -48,25 +60,170 @@
             </state>
           </provider>
         </entry>
-        <tab><![CDATA[{"tabTitle":"MainActivity.kt","foregroundColor":-10720654,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-122,1,10,47,111,114,103,47,106,101,116,98,114,97,105,110,115,47,107,111,116,108,105,110,47,105,100,101,97,47,105,99,111,110,115,47,107,111,116,108,105,110,95,102,105,108,101,46,115,118,103,18,48,111,114,103,47,106,101,116,98,114,97,105,110,115,47,107,111,116,108,105,110,47,105,100,101,97,47,105,99,111,110,115,47,101,120,112,117,105,47,107,111,116,108,105,110,46,115,118,103,26,20,111,114,103,46,106,101,116,98,114,97,105,110,115,46,107,111,116,108,105,110,40,-98,-111,-47,-25,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+        <tab><![CDATA[{"tabTitle":"MainActivity.kt","foregroundColor":-2121728,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"dfa000"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-122,1,10,47,111,114,103,47,106,101,116,98,114,97,105,110,115,47,107,111,116,108,105,110,47,105,100,101,97,47,105,99,111,110,115,47,107,111,116,108,105,110,95,102,105,108,101,46,115,118,103,18,48,111,114,103,47,106,101,116,98,114,97,105,110,115,47,107,111,116,108,105,110,47,105,100,101,97,47,105,99,111,110,115,47,101,120,112,117,105,47,107,111,116,108,105,110,46,115,118,103,26,20,111,114,103,46,106,101,116,98,114,97,105,110,115,46,107,111,116,108,105,110,40,-98,-111,-47,-25,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/ocrdokumen/debug2.kt">
+          <provider editor-type-id="android-source-code" selected="true">
+            <state selected-layout="SHOW_EDITOR">
+              <editor-state>
+                <caret selection-end-line="8" selection-end-column="1" />
+              </editor-state>
+              <multi-preview-state selected="Compose">
+                <representations>
+                  <list>
+                    <representation name="Compose">
+                      <settings>
+                        <setting name="previewLayout" value="Grid" />
+                        <setting name="selectedGroup" value="" />
+                      </settings>
+                    </representation>
+                  </list>
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"debug2.kt","foregroundColor":-10720654,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-122,1,10,47,111,114,103,47,106,101,116,98,114,97,105,110,115,47,107,111,116,108,105,110,47,105,100,101,97,47,105,99,111,110,115,47,107,111,116,108,105,110,95,102,105,108,101,46,115,118,103,18,48,111,114,103,47,106,101,116,98,114,97,105,110,115,47,107,111,116,108,105,110,47,105,100,101,97,47,105,99,111,110,115,47,101,120,112,117,105,47,107,111,116,108,105,110,46,115,118,103,26,20,111,114,103,46,106,101,116,98,114,97,105,110,115,46,107,111,116,108,105,110,40,-98,-111,-47,-25,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/build.gradle.kts">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="109">
+              <caret line="61" column="50" lean-forward="true" selection-start-line="61" selection-start-column="50" selection-end-line="61" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"build.gradle.kts (:app)","foregroundColor":-10720654,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-106,1,10,56,111,114,103,47,106,101,116,98,114,97,105,110,115,47,107,111,116,108,105,110,47,105,100,101,97,47,105,99,111,110,115,47,107,111,116,108,105,110,95,103,114,97,100,108,101,95,115,99,114,105,112,116,46,115,118,103,18,60,111,114,103,47,106,101,116,98,114,97,105,110,115,47,107,111,116,108,105,110,47,105,100,101,97,47,105,99,111,110,115,47,101,120,112,117,105,47,107,111,116,108,105,110,71,114,97,100,108,101,83,99,114,105,112,116,46,115,118,103,26,20,111,114,103,46,106,101,116,98,114,97,105,110,115,46,107,111,116,108,105,110,40,-24,-65,-15,-112,2,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/build.gradle.kts">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"build.gradle.kts (OcrDokumen)","foregroundColor":-10720654,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-106,1,10,56,111,114,103,47,106,101,116,98,114,97,105,110,115,47,107,111,116,108,105,110,47,105,100,101,97,47,105,99,111,110,115,47,107,111,116,108,105,110,95,103,114,97,100,108,101,95,115,99,114,105,112,116,46,115,118,103,18,60,111,114,103,47,106,101,116,98,114,97,105,110,115,47,107,111,116,108,105,110,47,105,100,101,97,47,105,99,111,110,115,47,101,120,112,117,105,47,107,111,116,108,105,110,71,114,97,100,108,101,83,99,114,105,112,116,46,115,118,103,26,20,111,114,103,46,106,101,116,98,114,97,105,110,115,46,107,111,116,108,105,110,40,-24,-65,-15,-112,2,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/src/test/java/com/example/ocrdokumen/ExampleUnitTest.kt">
+          <provider editor-type-id="android-source-code" selected="true">
+            <state selected-layout="SHOW_EDITOR">
+              <editor-state relative-caret-position="220">
+                <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+              </editor-state>
+              <multi-preview-state selected="Compose">
+                <representations>
+                  <list>
+                    <representation name="Compose">
+                      <settings>
+                        <setting name="previewLayout" value="Grid" />
+                        <setting name="selectedGroup" value="" />
+                      </settings>
+                    </representation>
+                  </list>
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"ExampleUnitTest.kt","foregroundColor":-10720654,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-122,1,10,47,111,114,103,47,106,101,116,98,114,97,105,110,115,47,107,111,116,108,105,110,47,105,100,101,97,47,105,99,111,110,115,47,99,108,97,115,115,75,111,116,108,105,110,46,115,118,103,18,53,111,114,103,47,106,101,116,98,114,97,105,110,115,47,107,111,116,108,105,110,47,105,100,101,97,47,105,99,111,110,115,47,101,120,112,117,105,47,99,108,97,115,115,75,111,116,108,105,110,46,115,118,103,26,20,111,114,103,46,106,101,116,98,114,97,105,110,115,46,107,111,116,108,105,110,40,-16,-50,-72,-55,2,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/com/example/ocrdokumen/ExampleInstrumentedTest.kt">
+          <provider editor-type-id="android-source-code" selected="true">
+            <state selected-layout="SHOW_EDITOR">
+              <editor-state relative-caret-position="242">
+                <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+              </editor-state>
+              <multi-preview-state selected="Compose">
+                <representations>
+                  <list>
+                    <representation name="Compose">
+                      <settings>
+                        <setting name="previewLayout" value="Grid" />
+                        <setting name="selectedGroup" value="" />
+                      </settings>
+                    </representation>
+                  </list>
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"ExampleInstrumentedTest.kt","foregroundColor":-10720654,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-122,1,10,47,111,114,103,47,106,101,116,98,114,97,105,110,115,47,107,111,116,108,105,110,47,105,100,101,97,47,105,99,111,110,115,47,99,108,97,115,115,75,111,116,108,105,110,46,115,118,103,18,53,111,114,103,47,106,101,116,98,114,97,105,110,115,47,107,111,116,108,105,110,47,105,100,101,97,47,105,99,111,110,115,47,101,120,112,117,105,47,99,108,97,115,115,75,111,116,108,105,110,46,115,118,103,26,20,111,114,103,46,106,101,116,98,114,97,105,110,115,46,107,111,116,108,105,110,40,-16,-50,-72,-55,2,48,0]}]]></tab>
+      </file>
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="374">
+              <caret line="17" column="42" lean-forward="true" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-manifest" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"AndroidManifest.xml","foregroundColor":-10720654,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,83,10,45,115,116,117,100,105,111,47,105,99,111,110,115,47,115,104,101,108,108,47,102,105,108,101,116,114,101,101,47,109,97,110,105,102,101,115,116,45,102,105,108,101,46,115,118,103,26,21,111,114,103,46,106,101,116,98,114,97,105,110,115,46,97,110,100,114,111,105,100,40,-20,-95,-101,-73,-2,-1,-1,-1,-1,1,48,2]}]]></tab>
       </file>
     </leaf>
   </component>
   <component name="FileTypeUsageLocalSummary"><![CDATA[{
   "data": {
     "Kotlin": {
-      "usageCount": 33,
-      "lastUsed": 1758590202646
+      "usageCount": 165,
+      "lastUsed": 1766984805519
     },
     "XML": {
+      "usageCount": 39,
+      "lastUsed": 1766984805212
+    },
+    "Image": {
       "usageCount": 2,
-      "lastUsed": 1758512749616
+      "lastUsed": 1765373835912
+    },
+    "JAVA": {
+      "usageCount": 1,
+      "lastUsed": 1765530826154
+    },
+    "Properties": {
+      "usageCount": 2,
+      "lastUsed": 1765762852992
+    },
+    "TOML": {
+      "usageCount": 1,
+      "lastUsed": 1765762874737
+    },
+    "Shrinker Config File": {
+      "usageCount": 1,
+      "lastUsed": 1765762881914
     }
   }
 }]]></component>
   <component name="FindInProjectRecents">
     <findStrings>
+      <find>scope</find>
+      <find>horizontalScroll</find>
+      <find>activityResultLauncher</find>
+      <find>jangan</find>
+      <find>previewView</find>
+      <find>innerPadding</find>
+      <find>wifiConnect</find>
       <find />
+      <find>imageCapture</find>
+      <find>Log.d</find>
+      <find>cameraProvider</find>
+      <find>cameraProvider.bind</find>
+      <find>output</find>
+      <find>succedSavePhoto</find>
+      <find>Toast</find>
+      <find>iku iku</find>
+      <find>camera</find>
+      <find>place w</find>
+      <find>permission</find>
+      <find>okhttp</find>
+      <find>okHttp</find>
+      <find>cameraPreviewUy</find>
+      <find>PlacesWeCalledCamera</find>
+      <find>startCamera</find>
+      <find>takePh</find>
+      <find>takePhoto</find>
+      <find>Manifest</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -81,9 +238,19 @@
     </expand>
     <select />
   </component>
+  <component name="GitSEFilterConfiguration">{}</component>
   <component name="IdeDocumentHistory">{
   &quot;changedPaths&quot;: [
     &quot;/home/killingwhales/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/ui/theme/Theme.kt&quot;,
+    &quot;/home/killingwhales/AndroidStudioProjects/OcrDokumen/build.gradle.kts&quot;,
+    &quot;/home/killingwhales/AndroidStudioProjects/OcrDokumen/app/src/main/res/layout/activity_bluetooth2.xml&quot;,
+    &quot;/home/killingwhales/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/FirstFragment.kt&quot;,
+    &quot;/home/killingwhales/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/SecondFragment.kt&quot;,
+    &quot;/home/killingwhales/AndroidStudioProjects/OcrDokumen/app/src/main/res/layout/activity_main.xml&quot;,
+    &quot;/home/killingwhales/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/connection.kt&quot;,
+    &quot;/home/killingwhales/AndroidStudioProjects/OcrDokumen/app/src/main/AndroidManifest.xml&quot;,
+    &quot;/home/killingwhales/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/debug2.kt&quot;,
+    &quot;/home/killingwhales/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/home.kt&quot;,
     &quot;/home/killingwhales/AndroidStudioProjects/OcrDokumen/app/build.gradle.kts&quot;,
     &quot;/home/killingwhales/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/MainActivity.kt&quot;
   ]
@@ -96,11 +263,23 @@
     </option>
   </component>
   <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="1" lastUsage="1765530826154" />
+    </language>
+    <language id="Properties">
+      <summary usageCount="2" lastUsage="1765762852992" />
+    </language>
+    <language id="SHRINKER_CONFIG">
+      <summary usageCount="1" lastUsage="1765762881914" />
+    </language>
+    <language id="TOML">
+      <summary usageCount="1" lastUsage="1765762874737" />
+    </language>
     <language id="XML">
-      <summary usageCount="2" lastUsage="1758512749618" />
+      <summary usageCount="39" lastUsage="1766984805212" />
     </language>
     <language id="kotlin">
-      <summary usageCount="33" lastUsage="1758590202649" />
+      <summary usageCount="165" lastUsage="1766984805519" />
     </language>
   </component>
   <component name="ProjectView">
@@ -1500,13 +1679,6 @@
             </path>
             <path>
               <item name="OcrDokumen" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="kotlin+java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="dir{file:///home/killingwhales/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen}" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="dir{file:///home/killingwhales/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/ui/theme}" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OcrDokumen" type="1abcf292:AndroidViewProjectNode" />
               <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
             </path>
           </expand>
@@ -1553,33 +1725,15 @@
                     </attributes>
                     <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="ui.theme" />
                     <item name="dir{file:///home/killingwhales/AndroidStudioProjects/OcrDokumen/app/src/main/java/com/example/ocrdokumen/ui/theme}" type="462c0819:PsiDirectoryNode" />
-                    <presentation>
-                      <attributes>
-                        <map>
-                          <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/example/ocrdokumen/ui/theme/Color.kt" />
-                        </map>
-                      </attributes>
-                      <data iconPath="org/jetbrains/kotlin/idea/icons/expui/kotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="Color.kt" />
-                      <item name="Color.kt" type="24436e51:KtFileTreeNode" />
-                    </presentation>
-                    <presentation>
-                      <attributes>
-                        <map>
-                          <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/example/ocrdokumen/ui/theme/Theme.kt" />
-                        </map>
-                      </attributes>
-                      <data iconPath="org/jetbrains/kotlin/idea/icons/expui/kotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="Theme.kt" />
-                      <item name="Theme.kt" type="24436e51:KtFileTreeNode" />
-                    </presentation>
-                    <presentation>
-                      <attributes>
-                        <map>
-                          <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/example/ocrdokumen/ui/theme/Type.kt" />
-                        </map>
-                      </attributes>
-                      <data iconPath="org/jetbrains/kotlin/idea/icons/expui/kotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="Type.kt" />
-                      <item name="Type.kt" type="24436e51:KtFileTreeNode" />
-                    </presentation>
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/example/ocrdokumen/debug2.kt" />
+                      </map>
+                    </attributes>
+                    <data iconPath="org/jetbrains/kotlin/idea/icons/expui/kotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="debug2.kt" />
+                    <item name="debug2.kt" type="24436e51:KtFileTreeNode" />
                   </presentation>
                   <presentation>
                     <attributes>
@@ -1709,6 +1863,7 @@
   <component name="RunConfigurationStartHistory">
     <history>
       <element setting="Android App.MainActivity" />
+      <element setting="Android App.MainActivity (1)" />
       <element setting="Android App.app" />
     </history>
   </component>
@@ -1726,92 +1881,197 @@
     </tool-windows>
   </component>
   <component name="TerminalArrangementManager">
-    <option name="mySelectedTabIndex" value="-1" />
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" />
+    </option>
+  </component>
+  <component name="TerminalTabsStorage">
+    <option name="tabs">
+      <TerminalSessionPersistedTab name="Local" workingDirectory="$PROJECT_DIR$">
+        <option name="shellCommand">
+          <option value="/usr/bin/zsh" />
+          <option value="-i" />
+        </option>
+      </TerminalSessionPersistedTab>
+    </option>
   </component>
   <component name="ToolWindowManager">
     <layoutV2>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8613808" visible="true" weight="0.17906117" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8602431" visible="true" weight="0.17592593" />
       <window_info id="Commit" order="1" weight="0.17906117" />
       <window_info id="Resources Explorer" order="2" weight="0.17906117" />
-      <window_info active="true" id="Bookmarks" order="3" sideWeight="0.1386192" side_tool="true" visible="true" weight="0.17906117" />
+      <window_info id="Bookmarks" order="3" sideWeight="0.13975695" side_tool="true" weight="0.17592593" />
       <window_info id="Pull Requests" order="4" weight="0.17906117" />
-      <window_info anchor="bottom" id="Version Control" order="0" weight="0.32992202" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32992202" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.3387255" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.3387255" />
       <window_info anchor="bottom" id="Problems" order="2" />
-      <window_info anchor="bottom" id="Problems View" order="3" weight="0.32992202" />
-      <window_info anchor="bottom" id="Logcat" order="4" weight="0.32992202" />
-      <window_info anchor="bottom" id="App Quality Insights" order="5" weight="0.32992202" />
-      <window_info anchor="bottom" id="Build" order="6" weight="0.32992202" />
+      <window_info anchor="bottom" id="Problems View" order="3" weight="0.3387255" />
+      <window_info anchor="bottom" id="Logcat" order="4" weight="0.3387255" />
+      <window_info anchor="bottom" id="App Quality Insights" order="5" weight="0.3387255" />
+      <window_info anchor="bottom" id="Build" order="6" weight="0.3387255" />
       <window_info anchor="bottom" id="Run" order="7" show_stripe_button="false" weight="0.32992202" />
-      <window_info anchor="bottom" id="Debug" order="8" weight="0.32992202" />
-      <window_info anchor="right" id="Notifications" order="0" weight="0.2502637" />
-      <window_info anchor="right" id="Gradle" order="1" weight="0.2502637" />
+      <window_info anchor="bottom" id="Debug" order="8" show_stripe_button="false" weight="0.3387255" />
+      <window_info anchor="bottom" id="Find" order="9" show_stripe_button="false" weight="0.3602941" />
+      <window_info anchor="bottom" id="Upgrade Assistant" order="10" weight="0.3387255" />
+      <window_info anchor="right" id="Layout Validation" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.28439152" />
+      <window_info anchor="right" id="Gradle" order="1" weight="0.32989419" />
       <window_info anchor="right" id="Device Manager" order="2" weight="0.25" />
-      <window_info anchor="right" id="Device Manager 2" order="3" weight="0.2502637" />
-      <window_info anchor="right" id="Running Devices" order="4" weight="0.2502637" />
+      <window_info anchor="right" id="Device Manager 2" order="3" weight="0.18235295" />
+      <window_info anchor="right" id="Running Devices" order="4" weight="0.18227513" />
       <window_info anchor="right" id="StudioBot" order="5" weight="0.2502637" />
-      <window_info anchor="right" id="Assistant" order="6" />
-      <unified_weights bottom="0.32992202" left="0.17906117" right="0.2502637" />
+      <window_info anchor="right" id="Assistant" order="6" weight="0.32989419" />
+      <unified_weights bottom="0.3387255" left="0.17592593" right="0.28439152" />
     </layoutV2>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8602431" visible="true" weight="0.17592593" />
+      <window_info id="Commit" order="1" weight="0.17906117" />
+      <window_info id="Resources Explorer" order="2" weight="0.17906117" />
+      <window_info active="true" id="Bookmarks" order="3" sideWeight="0.13975695" side_tool="true" visible="true" weight="0.17592593" />
+      <window_info id="Pull Requests" order="4" weight="0.17906117" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.3387255" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.3387255" />
+      <window_info anchor="bottom" id="Problems" order="2" />
+      <window_info anchor="bottom" id="Problems View" order="3" weight="0.3387255" />
+      <window_info active="true" anchor="bottom" id="Logcat" order="4" visible="true" weight="0.3387255" />
+      <window_info anchor="bottom" id="App Quality Insights" order="5" weight="0.3387255" />
+      <window_info anchor="bottom" id="Build" order="6" weight="0.3387255" />
+      <window_info anchor="bottom" id="Run" order="7" show_stripe_button="false" weight="0.32992202" />
+      <window_info anchor="bottom" id="Debug" order="8" show_stripe_button="false" weight="0.3387255" />
+      <window_info anchor="bottom" id="Find" order="9" show_stripe_button="false" weight="0.3602941" />
+      <window_info anchor="bottom" id="Upgrade Assistant" order="10" weight="0.3387255" />
+      <window_info anchor="right" id="Layout Validation" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.32989419" />
+      <window_info anchor="right" id="Gradle" order="1" weight="0.32989419" />
+      <window_info anchor="right" id="Device Manager" order="2" weight="0.25" />
+      <window_info anchor="right" id="Device Manager 2" order="3" weight="0.32989419" />
+      <window_info anchor="right" id="Running Devices" order="4" weight="0.32989419" />
+      <window_info anchor="right" id="StudioBot" order="5" weight="0.2502637" />
+      <window_info anchor="right" id="Assistant" order="6" weight="0.32989419" />
+      <unified_weights bottom="0.3387255" left="0.17592593" right="0.32989419" />
+    </layout-to-restore>
     <recentWindows>
-      <value>Terminal</value>
       <value>Project</value>
+      <value>Notifications</value>
+      <value>Terminal</value>
+      <value>Device Manager 2</value>
+      <value>Running Devices</value>
+      <value>Logcat</value>
+      <value>Problems View</value>
+      <value>Build</value>
+      <value>App Quality Insights</value>
+      <value>Assistant</value>
+      <value>Gradle</value>
+      <value>Bookmarks</value>
+      <value>Upgrade Assistant</value>
+      <value>Debug</value>
+      <value>Find</value>
+      <value>Version Control</value>
       <value>Commit</value>
       <value>Resources Explorer</value>
       <value>Pull Requests</value>
-      <value>Version Control</value>
-      <value>Build</value>
-      <value>Problems View</value>
-      <value>Logcat</value>
-      <value>App Quality Insights</value>
-      <value>Notifications</value>
-      <value>Device Manager 2</value>
-      <value>Running Devices</value>
-      <value>Gradle</value>
       <value>Run</value>
-      <value>Debug</value>
       <value>StudioBot</value>
-      <value>Bookmarks</value>
-      <value>Assistant</value>
     </recentWindows>
   </component>
   <component name="WindowStateProjectService">
-    <state x="485" y="305" key="#PSD" timestamp="1758509254445">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="485" y="327" key="#PSD" timestamp="1765764748387">
+      <screen x="0" y="30" width="1920" height="1050" />
     </state>
     <state x="485" y="305" key="#PSD/0.0.1920.1080@0.0.1920.1080" timestamp="1758509254445" />
-    <state x="560" y="229" width="894" height="651" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1758333726247">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="485" y="327" key="#PSD/0.30.1920.1050@0.30.1920.1050" timestamp="1765764748387" />
+    <state x="560" y="253" width="901" height="705" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1766413641076">
+      <screen x="0" y="30" width="1920" height="1050" />
     </state>
     <state x="560" y="229" width="894" height="651" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1758333726247" />
-    <state x="744" y="312" key="FileChooserDialogImpl" timestamp="1758333193586">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="560" y="253" width="901" height="705" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1766413641076" />
+    <state x="773" y="286" key="#com.intellij.ide.util.MemberChooser" timestamp="1766394298340">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="773" y="286" key="#com.intellij.ide.util.MemberChooser/0.30.1920.1050@0.30.1920.1050" timestamp="1766394298340" />
+    <state x="698" y="319" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1765374343245">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="698" y="319" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1765374343245" />
+    <state x="744" y="333" width="424" height="454" key="FileChooserDialogImpl" timestamp="1766394548754">
+      <screen x="0" y="30" width="1920" height="1050" />
     </state>
     <state x="744" y="312" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1758333193586" />
-    <state width="1814" height="296" key="GridCell.Tab.0.bottom" timestamp="1758335959711">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="744" y="333" width="424" height="454" key="FileChooserDialogImpl/0.30.1920.1050@0.30.1920.1050" timestamp="1766394548754" />
+    <state width="1808" height="303" key="GridCell.Tab.0.bottom" timestamp="1765588833763">
+      <screen x="0" y="30" width="1920" height="1050" />
     </state>
     <state width="1814" height="296" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1758335959711" />
-    <state width="1814" height="296" key="GridCell.Tab.0.center" timestamp="1758335959711">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1808" height="303" key="GridCell.Tab.0.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1765588833763" />
+    <state width="1808" height="303" key="GridCell.Tab.0.center" timestamp="1765588833763">
+      <screen x="0" y="30" width="1920" height="1050" />
     </state>
     <state width="1814" height="296" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1758335959711" />
-    <state width="1814" height="296" key="GridCell.Tab.0.left" timestamp="1758335959711">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1808" height="303" key="GridCell.Tab.0.center/0.30.1920.1050@0.30.1920.1050" timestamp="1765588833763" />
+    <state width="1808" height="303" key="GridCell.Tab.0.left" timestamp="1765588833763">
+      <screen x="0" y="30" width="1920" height="1050" />
     </state>
     <state width="1814" height="296" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1758335959711" />
-    <state width="1814" height="296" key="GridCell.Tab.0.right" timestamp="1758335959711">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1808" height="303" key="GridCell.Tab.0.left/0.30.1920.1050@0.30.1920.1050" timestamp="1765588833763" />
+    <state width="1808" height="303" key="GridCell.Tab.0.right" timestamp="1765588833763">
+      <screen x="0" y="30" width="1920" height="1050" />
     </state>
     <state width="1814" height="296" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1758335959711" />
-    <state x="469" y="205" key="SettingsEditor" timestamp="1758335460170">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1808" height="303" key="GridCell.Tab.0.right/0.30.1920.1050@0.30.1920.1050" timestamp="1765588833763" />
+    <state width="1808" height="303" key="GridCell.Tab.1.bottom" timestamp="1765588833763">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1808" height="303" key="GridCell.Tab.1.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1765588833763" />
+    <state width="1808" height="303" key="GridCell.Tab.1.center" timestamp="1765588833763">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1808" height="303" key="GridCell.Tab.1.center/0.30.1920.1050@0.30.1920.1050" timestamp="1765588833763" />
+    <state width="1808" height="303" key="GridCell.Tab.1.left" timestamp="1765588833763">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1808" height="303" key="GridCell.Tab.1.left/0.30.1920.1050@0.30.1920.1050" timestamp="1765588833763" />
+    <state width="1808" height="303" key="GridCell.Tab.1.right" timestamp="1765588833763">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1808" height="303" key="GridCell.Tab.1.right/0.30.1920.1050@0.30.1920.1050" timestamp="1765588833763" />
+    <state x="1388" y="671" width="472" height="139" key="ProcessPopupWindow" timestamp="1765531167167">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="1388" y="671" width="472" height="139" key="ProcessPopupWindow/0.30.1920.1050@0.30.1920.1050" timestamp="1765531167167" />
+    <state x="777" y="448" key="ScreenRecorderOptionsDialog" timestamp="1766372731002">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="777" y="448" key="ScreenRecorderOptionsDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1766372731002" />
+    <state x="736" y="316" key="ScreenshotViewer" timestamp="1766372712379">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="736" y="316" key="ScreenshotViewer/0.30.1920.1050@0.30.1920.1050" timestamp="1766372712379" />
+    <state x="469" y="229" key="SettingsEditor" timestamp="1765762976134">
+      <screen x="0" y="30" width="1920" height="1050" />
     </state>
     <state x="469" y="205" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1758335460170" />
-    <state x="693" y="263" width="524" height="554" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1758521962549">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="469" y="229" key="SettingsEditor/0.30.1920.1050@0.30.1920.1050" timestamp="1765762976134" />
+    <state x="670" y="381" key="com.android.tools.idea.run.deployment.SelectMultipleDevicesDialog" timestamp="1764645159537">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="670" y="381" key="com.android.tools.idea.run.deployment.SelectMultipleDevicesDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1764645159537" />
+    <state x="693" y="286" width="524" height="554" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1765623121037">
+      <screen x="0" y="30" width="1920" height="1050" />
     </state>
     <state x="693" y="263" width="524" height="554" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1758521962549" />
+    <state x="693" y="286" width="524" height="554" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.30.1920.1050@0.30.1920.1050" timestamp="1765623121037" />
+    <state x="756" y="489" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1765621293582">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="756" y="489" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.30.1920.1050@0.30.1920.1050" timestamp="1765621293582" />
+    <state x="624" y="257" key="run.anything.popup" timestamp="1765506993037">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="624" y="257" key="run.anything.popup/0.30.1920.1050@0.30.1920.1050" timestamp="1765506993037" />
+    <state x="623" y="264" width="701" height="701" key="search.everywhere.popup" timestamp="1765787233594">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="623" y="264" width="701" height="701" key="search.everywhere.popup/0.30.1920.1050@0.30.1920.1050" timestamp="1765787233594" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/ocrdokumen/ui/theme/Color.kt">
@@ -1819,27 +2079,6 @@
         <state selected-layout="SHOW_EDITOR">
           <editor-state relative-caret-position="352">
             <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-          </editor-state>
-          <multi-preview-state selected="Compose">
-            <representations>
-              <list>
-                <representation name="Compose">
-                  <settings>
-                    <setting name="previewLayout" value="Grid" />
-                    <setting name="selectedGroup" value="" />
-                  </settings>
-                </representation>
-              </list>
-            </representations>
-          </multi-preview-state>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/ocrdokumen/ui/theme/Type.kt">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state selected-layout="SHOW_EDITOR">
-          <editor-state relative-caret-position="198">
-            <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
           </editor-state>
           <multi-preview-state selected="Compose">
             <representations>
@@ -1877,29 +2116,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-manifest" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle.kts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="52" column="55" selection-start-line="52" selection-start-column="55" selection-end-line="52" selection-end-column="55" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.material3/material3-android/1.3.0/cb4d75d2f2dc983d04e19efd7cc027ebea4da935/material3-android-1.3.0-sources.jar!/commonMain/androidx/compose/material3/SnackbarHost.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="181">
+            <caret line="98" column="16" selection-start-line="98" selection-start-column="16" selection-end-line="98" selection-end-column="16" />
+          </editor-state>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle.kts">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/ocrdokumen/BluetoothActivity2.kt" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_first.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_second.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/navigation/nav_graph.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/ocrdokumen/FirstFragment.kt" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/ocrdokumen/SecondFragment.kt" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/ocrdokumen/MainActivity2.kt" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml">
+      <provider selected="true" editor-type-id="android-preview-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_foreground.xml">
+      <provider selected="true" editor-type-id="android-preview-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.webp">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.webp">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml">
+      <provider selected="true" editor-type-id="android-preview-designer" />
+    </entry>
+    <entry file="file://$USER_HOME$/Android/Sdk/sources/android-36/android/content/BroadcastReceiver.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="-358">
+            <caret line="404" column="25" selection-start-line="404" selection-start-column="25" selection-end-line="404" selection-end-column="25" />
+          </editor-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/ocrdokumen/connection.kt" />
+    <entry file="file://$PROJECT_DIR$/settings.gradle.kts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/libs.versions.toml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/ocrdokumen/MainActivity.kt">
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/proguard-rules.pro">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/ocrdokumen/ui/theme/Type.kt">
       <provider selected="true" editor-type-id="android-source-code">
-        <state selected-layout="SHOW_EDITOR_AND_PREVIEW">
-          <editor-state relative-caret-position="506">
-            <caret line="71" column="22" selection-start-line="71" selection-start-column="22" selection-end-line="71" selection-end-column="22" />
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="198">
+            <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
           </editor-state>
           <multi-preview-state selected="Compose">
             <representations>
@@ -1915,6 +2197,115 @@
           </multi-preview-state>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/ocrdokumen/home.kt" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/xml/data_extraction_rules.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/xml/backup_rules.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/ocrdokumen/MainActivity.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="228">
+            <caret line="270" column="8" selection-start-line="270" selection-start-column="8" selection-end-line="278" selection-end-column="28" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/ocrdokumen/debug2.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state>
+            <caret selection-end-line="8" selection-end-column="1" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/test/java/com/example/ocrdokumen/ExampleUnitTest.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="220">
+            <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/com/example/ocrdokumen/ExampleInstrumentedTest.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="242">
+            <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle.kts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle.kts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="61" column="50" lean-forward="true" selection-start-line="61" selection-start-column="50" selection-end-line="61" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="42" lean-forward="true" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest" />
     </entry>
   </component>
 </project>
